@@ -1,12 +1,255 @@
 {
-  "cases": [
+"cases": [
+{
+"name": "R (on the application of Begum) (Respondent) v Secretary of State for the Home Department (Appellant) [2021] UKSC 7",
+"keywords": ["immigration", "dual national", "national security", "citizenship", "human rights"]
+},
+{
+"name": "R (on the application of Miller) (Appellant) v The Prime Minister (Respondent) [2019] UKSC 41",
+"keywords": ["constitutional", "Brexit", "parliamentary sovereignty", "judicial review", "separation of powers"]
+},
+{
+"name": "R (on the application of Privacy International) (Appellant) v Investigatory Powers Tribunal and others (Respondents) [2019] UKSC 22",
+"keywords": ["surveillance", "privacy rights", "human rights", "data protection", "intelligence agencies"]
+},
+{
+"name": "R (on the application of Bancoult No 3) (Appellant) v Secretary of State for Foreign and Commonwealth Affairs (Respondent) [2018] UKSC 3",
+"keywords": ["international law", "territorial sovereignty", "human rights", "colonialism", "Chagossian people"]
+},
+{
+"name": "R (on the application of UNISON) (Appellant) v Lord Chancellor (Respondent) [2017] UKSC 51",
+"keywords": ["employment law", "trade unions", "collective bargaining", "workers' rights", "judicial review"]
+},
+{
+"name": "R (on the application of Miller and another) (Respondents) v Secretary of State for Exiting the European Union (Appellant) [2017] UKSC 5",
+"keywords": ["constitutional", "Brexit", "parliamentary sovereignty", "EU law", "triggering Article 50"]
+},
+{
+"name": "R v Jogee (Appellant) [2016] UKSC 8",
+"keywords": ["criminal law", "joint enterprise", "accessorial liability", "mens rea", "overturning precedent"]
+},
+{
+"name": "Montgomery (Appellant) v Lanarkshire Health Board (Respondent) (Scotland) [2015] UKSC 11",
+"keywords": ["medical law", "informed consent", "doctor's duty", "patient autonomy", "medical negligence"]
+},
+{
+"name": "R (on the application of Evans) and another (Respondents) v Attorney General (Appellant) [2015] UKSC 21",
+"keywords": ["freedom of information", "transparency", "government records", "national security", "public interest"]
+},
+{
+"name": "R (on the application of Moseley) (in substitution of Stirling (Deceased)) (AP) (Appellant) v London Borough of Haringey (Respondent) [2014] UKSC 56",
+"keywords": ["property law", "inheritance", "human rights", "housing", "right to family life"]
+},
+{
+"name": "R (on the application of Nicklinson and another) (AP) (Appellants) v Ministry of Justice (Respondent) [2014] UKSC 38",
+"keywords": ["medical law", "end of life", "assisted dying", "right to die", "human rights"]
+},
+{
+{
+"cases": [
+{
+"name": "R (on the application of Begum) (Respondent) v Secretary of State for the Home Department (Appellant) [2021] UKSC 7",
+"keywords": ["immigration", "dual national", "national security", "citizenship", "human rights"]
+},
+{
+"name": "R (on the application of Miller) (Appellant) v The Prime Minister (Respondent) [2019] UKSC 41",
+"keywords": ["constitutional", "Brexit", "parliamentary sovereignty", "judicial review", "separation of powers"]
+},
+{
+"name": "R (on the application of Privacy International) (Appellant) v Investigatory Powers Tribunal and others (Respondents) [2019] UKSC 22",
+"keywords": ["surveillance", "privacy rights", "human rights", "data protection", "intelligence agencies"]
+},
+{
+"name": "R (on the application of Bancoult No 3) (Appellant) v Secretary of State for Foreign and Commonwealth Affairs (Respondent) [2018] UKSC 3",
+"keywords": ["international law", "territorial sovereignty", "human rights", "colonialism", "Chagossian people"]
+},
+{
+"name": "R (on the application of UNISON) (Appellant) v Lord Chancellor (Respondent) [2017] UKSC 51",
+"keywords": ["employment law", "trade unions", "collective bargaining", "workers' rights", "judicial review"]
+},
+{
+"name": "R (on the application of Miller and another) (Respondents) v Secretary of State for Exiting the European Union (Appellant) [2017] UKSC 5",
+"keywords": ["constitutional", "Brexit", "parliamentary sovereignty", "EU law", "triggering Article 50"]
+},
+{
+"name": "R v Jogee (Appellant) [2016] UKSC 8",
+"keywords": ["criminal law", "joint enterprise", "accessorial liability", "mens rea", "overturning precedent"]
+},
+{
+"name": "Montgomery (Appellant) v Lanarkshire Health Board (Respondent) (Scotland) [2015] UKSC 11",
+"keywords": ["medical law", "informed consent", "doctor's duty", "patient autonomy", "medical negligence"]
+},
+{
+"name": "R (on the application of Evans) and another (Respondents) v Attorney General (Appellant) [2015] UKSC 21",
+"keywords": ["freedom of information", "transparency", "government records", "national security", "public interest"]
+},
+{
+"name": "R (on the application of Moseley) (in substitution of Stirling (Deceased)) (AP) (Appellant) v London Borough of Haringey (Respondent) [2014] UKSC 56",
+"keywords": ["property law", "inheritance", "human rights", "housing", "right to family life"]
+},
+{
+"name": "R (on the application of Nicklinson and another) (AP) (Appellants) v Ministry of Justice (Respondent) [2014] UKSC 38",
+"keywords": ["medical law", "end of life", "assisted dying", "right to die", "human rights"]
+},
     {
-      "name": "R (on the application of Begum) (Respondent) v Secretary of State for the Home Department (Appellant) [2021] UKSC 7",
-      "keywords": ["immigration", "dual national"]
+      "name": "R (on the application of Nicklinson and another) (AP) (Appellants) v Ministry of Justice (Respondent) [2014] UKSC 38",
+      "keywords": ["medical law", "end of life", "assisted dying", "right to die", "human rights"]
     },
     {
-      "name": "R (on the application of Miller) (Appellant) v The Prime Minister (Respondent) [2019] UKSC 41",
-      "keywords": ["constitutional", "Brexit"]
+      "name": "R (on the application of HS2 Action Alliance Limited) (Appellant) v The Secretary of State for Transport and another (Respondents) [2014] UKSC 3",
+      "keywords": ["administrative law", "environmental impact", "infrastructure", "public interest", "judicial review"]
+    },
+    {
+      "name": "R (on the application of Chester) (Appellant) v Secretary of State for Justice (Respondent) [2013] UKSC 63",
+      "keywords": ["family law", "same-sex marriage", "civil partnership", "discrimination", "human rights"]
+    },
+    {
+      "name": "Walumba Lumba (Congo) 1 and 2 (Appellants) v Secretary of State for the Home Department (Respondent) [2011] UKSC 12",
+      "keywords": ["immigration law", "asylum seekers", "refugees", "human rights", "deportation"]
+    },
+    {
+      "name": "Axa General Insurance Ltd v HM Advocate and others (Scotland) [2011] UKSC 46",
+      "keywords": ["criminal law", "insurance fraud", "prosecution", "evidence", "fraudulent claims"]
+    },
+    {
+      "name": "Radmacher (formerly Granatino) v Granatino [2010] UKSC 42",
+      "keywords": ["family law", "prenuptial agreements", "financial settlements", "divorce", "marital assets"]
+    },
+    {
+      "name": "R (on the application of Cart) v The Upper Tribunal [2011] UKSC 28",
+      "keywords": ["administrative law", "tribunals", "judicial review", "human rights", "procedural fairness"]
+    },
+    {
+      "name": "R (on the application of E) (Respondent) v JFS Governing Body (Appellant) [2009] UKSC 15",
+      "keywords": ["education law", "religious discrimination", "admissions policy", "equality", "religious freedom"]
+    },
+    {
+      "name": "R (on the application of Purdy) v Director of Public Prosecutions [2009] UKHL 45",
+      "keywords": ["criminal law", "assisted suicide", "prosecution policy", "human rights", "end of life"]
+    },
+    {
+      "name": "R (on the application of Gentle) v Prime Minister [2008] UKHL 20",
+      "keywords": ["human rights", "armed conflict", "Iraq War", "state responsibility", "right to life"]
+    },
+    {
+      "name": "Stack v Dowden [2007] UKHL 17",
+      "keywords": ["property law", "cohabitation", "trusts", "ownership", "family home"]
+    },
+    {
+      "name": "R (on the application of Jackson) v Attorney General [2005] UKHL 56",
+      "keywords": ["constitutional", "parliamentary sovereignty", "legislation", "judicial review", "Human Rights Act"]
+    },
+    {
+      "name": "R (on the application of Jackson) v Attorney General [2005] UKHL 56",
+      "keywords": ["constitutional", "parliamentary sovereignty", "legislation", "judicial review", "Human Rights Act"]
+    },
+    {
+      "name": "Campbell v Mirror Group Newspapers Ltd [2004] UKHL 22",
+      "keywords": ["media law", "privacy", "defamation", "freedom of the press", "public interest"]
+    },
+    {
+      "name": "R (on the application of Limbuela) v Secretary of State for the Home Department [2005] UKHL 66",
+      "keywords": ["immigration law", "asylum seekers", "human rights", "destitution", "right to work"]
+    },
+    {
+      "name": "A v Secretary of State for the Home Department [2004] UKHL 56",
+      "keywords": ["immigration law", "deportation", "refugees", "human rights", "statelessness"]
+    },
+    {
+      "name": "R (on the application of H) v Mental Health Review Tribunal for the North and East London Region and the Secretary of State for Health [2005] UKHL 60",
+      "keywords": ["mental health law", "detention", "human rights", "treatment", "patient rights"]
+    },
+    {
+      "name": "R v A (No 2) [2001] UKHL 25",
+      "keywords": ["criminal law", "sexual offenses", "consent", "rape", "evidence"]
+    },
+    {
+      "name": "Regina v Bartle and the Commissioner of Police for the Metropolis and Others, Ex Parte Pinochet [1999] UKHL 1",
+      "keywords": ["international law", "extradition", "crimes against humanity", "immunity", "universal jurisdiction"]
+    },
+    {
+      "name": "Fairchild v Glenhaven Funeral Services Ltd and others [2002] UKHL 22",
+      "keywords": ["tort law", "negligence", "causation", "liability", "asbestos-related diseases"]
+    },
+    {
+      "name": "R (on the application of Anderson) v Secretary of State for the Home Department [2002] UKHL 46",
+      "keywords": ["immigration law", "detention", "human rights", "asylum seekers", "unlawful detention"]
+    },
+    {
+      "name": "R v Secretary of State for the Home Department, ex parte Simms [2000] UKHL 5",
+      "keywords": ["human rights", "prisoners' rights", "freedom of expression", "restrictive measures", "right to information"]
+    },
+    {
+      "name": "R v Secretary of State for the Home Department, ex parte Daly [2001] UKHL 26",
+      "keywords": ["immigration law", "asylum seekers", "refugees", "human rights", "deportation"]
+    },
+    {
+      "name": "Re S (FC) and others (FC) (Appellants) [2004] UKHL 47",
+      "keywords": ["family law", "child custody", "best interests", "parental rights", "children's rights"]
+    },
+   {
+      "name": "Macfarlane and Another v Tayside Health Board [2000] UKHL 55",
+      "keywords": ["medical law", "consent", "doctor-patient relationship", "medical negligence", "treatment options"]
+    },
+    {
+      "name": "R v DPP, ex parte Kebilene and Others [2000] UKHL 43",
+      "keywords": ["criminal law", "terrorism", "human rights", "prosecution", "fair trial"]
+    },
+    {
+      "name": "R v Shayler [2002] UKHL 11",
+      "keywords": ["criminal law", "official secrets", "freedom of speech", "national security", "whistleblowing"]
+    },
+    {
+      "name": "R (on the application of Williamson) v Secretary of State for Education and Employment [2005] UKHL 15",
+      "keywords": ["education law", "religious education", "religious freedom", "state schools", "curriculum"]
+    },
+    {
+      "name": "A and others v Secretary of State for the Home Department (No 2) [2005] UKHL 71",
+      "keywords": ["immigration law", "detention", "asylum seekers", "human rights", "prolonged detention"]
+    },
+    {
+      "name": "R (on the application of Countryside Alliance and others) v Attorney General and another [2007] UKHL 52",
+      "keywords": ["constitutional", "freedom of expression", "protest rights", "hunting ban", "legislation"]
+    },
+    {
+      "name": "R (on the application of Animal Defenders International) v Secretary of State for Culture, Media and Sport [2008] UKHL 15",
+      "keywords": ["animal rights", "circuses", "wild animals", "licensing", "public entertainment"]
+    },
+    {
+      "name": "R (on the application of Quintavalle) v Human Fertilisation and Embryology Authority [2005] UKHL 28",
+      "keywords": ["medical law", "reproductive technology", "embryos", "genetic manipulation", "regulation"]
+    },
+    {
+      "name": "R (on the application of Roberts) v Parole Board and another [2005] UKHL 45",
+      "keywords": ["criminal law", "parole", "prisoners' rights", "risk assessment", "rehabilitation"]
+    },
+    {
+      "name": "R (on the application of Playfoot) v Governing Body of Millais School [2007] EWHC 1698 (Admin)",
+      "keywords": ["education law", "school uniform", "religious freedom", "discrimination", "human rights"]
+    },
+    {
+      "name": "R (on the application of Corner House Research) v Director of the Serious Fraud Office [2008] UKHL 60",
+      "keywords": ["criminal law", "corruption", "bribery", "investigation", "prosecution"]
+    },
+    {
+      "name": "R (on the application of F) v Secretary of State for the Home Department [2010] UKSC 17",
+      "keywords": ["immigration law", "deportation", "refugees", "human rights", "family life"]
+    },
+{
+      "name": "R (on the application of Laporte) v Chief Constable of Gloucestershire [2006] UKHL 55",
+      "keywords": ["police powers", "protest rights", "public order", "freedom of assembly", "policing methods"]
+    },
+    {
+      "name": "R (on the application of Smith) v Secretary of State for Defence [2010] UKSC 29",
+      "keywords": ["military law", "human rights", "armed conflict", "combat immunity", "torture"]
+    },
+    {
+      "name": "R (on the application of Quila and another) v Secretary of State for the Home Department [2011] UKSC 45",
+      "keywords": ["immigration law", "family life", "spousal visas", "marriage age", "human rights"]
+    },
+    {
+      "name": "R (on the application of BA (Nigeria)) v Secretary of State for the Home Department [2009] UKSC 7",
+      "keywords": ["immigration law", "deportation", "asylum seekers", "human rights", "refoulement"]
     }
   ]
 }
