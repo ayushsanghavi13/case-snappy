@@ -1,3 +1,21 @@
+<head>
+<script src="https://www.gstatic.com/firebasejs/8.8.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.8.0/firebase-auth.js"></script>
+      <script src="https://www.gstatic.com/firebasejs/8.8.0/firebase-firestore.js"></script>
+    <script>
+      var firebaseConfig = {
+        apiKey: "AIzaSyDJUuuatsSo59hUnFNV7_sg8btKVDL-PVc",
+        authDomain: "the-phantom-7454f.firebaseapp.com",
+        projectId: "the-phantom-7454f",
+        storageBucket: "the-phantom-7454f.appspot.com",
+        messagingSenderId: "394749240812",
+        appId: "1:394749240812:web:2419ac8b17042f4e6c0cc9",
+        measurementId: "G-2Q9EGXPTBX"
+      };
+      firebase.initializeApp(firebaseConfig);
+    </script>
+</head>
+
 <div id="main-content">
   <div class="content-wrapper">
     <div id="search-container">
@@ -37,9 +55,6 @@ function populateDropdown(cases) {
     const item = document.createElement("div");
     item.innerText = caseItem.name;
     item.dataset.keywords = caseItem.keywords.join(' ').toLowerCase();
-    if (caseItem.summary) {
-      item.dataset.summary = caseItem.summary;
-    }
     item.onclick = function () {
       document.getElementById("search-input").value = this.innerText;
       closeDropdown();
@@ -131,7 +146,7 @@ async function searchCase() {
   const disclaimer = document.getElementById("disclaimer");
   disclaimer.style.display = "none";
 
-  const caseTitle = document.getElementById("search-input").value.trim();
+const caseTitle = document.getElementById("search-input").value.trim();
   if (!caseTitle) {
     showWarningPopup("Please enter a valid case.");
     submitButton.disabled = false;
@@ -145,7 +160,7 @@ async function searchCase() {
     submitButton.disabled = false;
     return;
   }
-  
+
   const loadingIndicator = document.getElementById("loading");
   const summaryContainer = document.getElementById("summary");
   loadingIndicator.style.display = "block";
@@ -162,45 +177,53 @@ async function searchCase() {
     summaryCount = 0;
   }
 
-  if (summaryCount >= 3) {
-    window.location.href = "https://casesnappy.com/app/upgrade";
+  if (summaryCount >= 25) {
+    window.location.href = "https://casesnappy.com/app/limit-reached-student";
     return;
   }
   
- const summary = selectedCase.dataset.summary;
+  firebase.firestore().collection("secrets").doc("PI7qq1sgxmno98MGduk3").get().then((doc) => {
+    const apiKey = doc.data().apiKey;
+    const messages = [
+      {
+        "role": "system",
+        "content": `You are an English Law professor. Write a concise summary of ${caseTitle} for law students in a total of 300 words or less. Structure the summary as facts, then issues, then decision, with separate headings for each section as follows: 'Facts', 'Issues', 'Decision' and 'Key passage(s)'. Each heading should be above its content. The 'Issues' section should include the argument levied by each party. Include only easily digestible, short paragraphs. If you refer to any other cases, ensure you explain why they are relevant. If you use any legal abbreviations, please also provide their full form in brackets. If possible, please also select between one and three short key passages from the judgement under the separate heading 'Key passage', and make clear which judge wrote them by putting their name in brackets directly after the passage.`
+      }
+    ];
 
-  if (summary) {
-    const formattedSummary = formatSummary(summary);
-    loadingIndicator.style.display = "none";
-    summaryContainer.innerHTML = formattedSummary;
-    disclaimer.style.display = "block";
-    submitButton.disabled = false;
-  } else {
-    firebase.firestore().collection("secrets").doc("PI7qq1sgxmno98MGduk3").get().then((doc) => {
-      const apiKey = doc.data().apiKey;
-      // ... (keep other code related to API call and message content)
+    fetch("https://api.openai.com/v1/chat/completions", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "Authorization": `Bearer ${apiKey}`,
+      },
+      body: JSON.stringify({
+        model: "gpt-3.5-turbo",
+        messages: messages,
+        max_tokens: 450,
+        n: 1,
+        stop: null,
+        temperature: 0.7,
+      }),
+      timeout: 60000,
+    })
+    .then(response => response.json())
+    .then(data => {
+      const summary = data.choices[0].message.content;
+      const formattedSummary = formatSummary(summary);
+     
+      loadingIndicator.style.display = "none";
+      summaryContainer.innerHTML = formattedSummary;
+      disclaimer.style.display = "block";
+      submitButton.disabled = false;
 
-      fetch("https://api.openai.com/v1/chat/completions", {
-        // ... (keep the existing fetch request configuration)
-      })
-        .then(response => response.json())
-        .then(data => {
-          const summary = data.choices[0].message.content;
-          const formattedSummary = formatSummary(summary);
-
-          loadingIndicator.style.display = "none";
-          summaryContainer.innerHTML = formattedSummary;
-          disclaimer.style.display = "block";
-          submitButton.disabled = false;
-
-          localStorage.setItem("summaryCount", parseInt(summaryCount) + 1);
-        })
-        .catch(err => {
-          console.error(err);
-          showWarningPopup("Failed to generate summary. Please try again later.");
-          submitButton.disabled = false;
-        });
+      localStorage.setItem("summaryCount", parseInt(summaryCount) + 1);
+    })
+    .catch(err => {
+      console.error(err);
+      showWarningPopup("Failed to generate summary. Please try again later.");
+      submitButton.disabled = false;
     });
-  }
+  });
 }
 </script>
