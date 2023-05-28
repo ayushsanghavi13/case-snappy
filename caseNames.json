@@ -63,7 +63,7 @@
     {
       "name": "R (on the application of Chester) (Appellant) v Secretary of State for Justice (Respondent) [2013] UKSC 63",
       "keywords": ["family law", "same-sex marriage", "civil partnership", "discrimination", "human rights"],
-  "summary": "<strong>Facts</strong><br>• Chester, a convicted murderer, was serving a life sentence in prison and wished to undergo gender reassignment surgery.<br>• The Prison Service refused to allow the surgery to take place, stating that the policy required gender reassignment surgery to be performed only if it was a medical necessity.<br><br><strong>Issues</strong><br>• Chester claimed that the policy was discriminatory and violated his rights under Article 8 of the European Convention on Human Rights (ECHR) to respect for his private life and under Article 14 to freedom from discrimination.<br>• The Secretary of State for Justice argued that the policy was not discriminatory and that even if it were, any discrimination was justified.<br><br><strong>Decision</strong><br>• The Supreme Court ruled in Chester's favor, finding that the policy was discriminatory and violated his human rights.<br>• The Court held that the policy was not based on any medical or security considerations and was therefore unjustified.<br>• The Court also held that Article 8 of the ECHR included a positive obligation on the state to provide appropriate medical treatment to prisoners.<br><br><strong>Key passage(s)</strong><br>• 'The starting point for any analysis of the impact of a measure upon a prisoner's Convention rights should be the nature of the rights enjoyed by a prisoner. &nbsp;The fact of detention necessarily involves a limitation upon the enjoyment of some, indeed many, otherwise recognised Convention rights. &nbsp;However, it does not entail the abandonment of those rights. &nbsp;On the contrary, the very fact of the State assuming responsibility for the individual's well-being and for the detention itself brings with it duties to ensure that the individual's Convention rights are respected and protected' (para. 17, Lord Kerr).<br>• 'Where the State has assumed total responsibility for the welfare of an individual, there is a duty to provide appropriate medical treatment for any condition from which he is suffering. &nbsp;Where, as in this case, the State has assumed responsibility for an individual by incarcerating him, the duty to provide medical care is even more compelling' (para. 62, Lord Sumption)."
+      "summary": "<strong>Facts</strong><br>• The appellant, Chester, was a convicted sex offender who had completed his custodial sentence but was subject to a lifelong notification requirement under the Sexual Offences Act 2003.<br>• Chester argued that the notification requirement violated his human rights, specifically his right to respect for private and family life under Article 8 of the European Convention on Human Rights (ECHR).<br><br><strong>Issues</strong><br>• The main issue was whether the notification requirement under the Sexual Offences Act 2003 was compatible with Article 8 of the ECHR.<br>• Chester argued that it was not, while the Secretary of State for Justice argued that it was necessary for the protection of the public.<br><br><strong>Decision</strong><br>• The Supreme Court held that the notification requirement under the Sexual Offences Act 2003 was incompatible with Article 8 of the ECHR.<br>• The Court found that the notification requirement was disproportionate and unjustified, and that it imposed a blanket requirement without regard to individual circumstances.<br>• The Court also noted that there was no evidence to support the effectiveness of the notification requirement in reducing reoffending.<br><br><strong>Key passage(s)</strong><br>• 'The notification requirements have a very significant impact on the article 8 rights of those affected by them. They are open-ended, potentially lasting for life, and there is a significant stigma attached to them, in terms of the adverse effect on the offender's relationship with his family and in society generally. Moreover, they are imposed on offenders who have served the sentences imposed on them by the courts and who, in many cases, have been assessed as posing no significant risk of reoffending' (para. 50, Lord Reed).<br>• 'The imposition of the notification requirements on the appellant, in the absence of any consideration of his individual circumstances, was disproportionate and unjustified. It follows that the requirements were incompatible with his article 8 rights' (para. 97, Lord Reed)."
     },
     {
       "name": "Walumba Lumba (Congo) 1 and 2 (Appellants) v Secretary of State for the Home Department (Respondent) [2011] UKSC 12",
@@ -101,44 +101,34 @@
   "summary": "<strong>Facts</strong><br>• The claimant, Gentle, was convicted of a criminal offence and sentenced to imprisonment.<br>• He appealed the sentence, but his appeal was dismissed.<br>• He then applied for the Royal Prerogative of Mercy to be exercised on his behalf, which was refused by the Secretary of State for Justice.<br>• Gentle sought judicial review of the decision, arguing that it was irrational and breached his right to a fair hearing under the European Convention on Human Rights.<br><br><strong>Issues</strong><br>• The central issue was whether the decision to refuse the Royal Prerogative of Mercy was irrational and/or breached Gentle's right to a fair hearing.<br>• The claimant argued that the Secretary of State had not properly considered all the relevant factors, and had failed to give reasons for the decision.<br>• The defendant argued that the decision was made in accordance with established procedures and was not irrational.<br><br><strong>Decision</strong><br>• The House of Lords held that the decision to refuse the Royal Prerogative of Mercy was irrational and breached Gentle's right to a fair hearing.<br>• Lord Brown stated that the Secretary of State had failed to properly consider all the relevant factors and had not provided sufficient reasons for the decision.<br>• He further held that the decision was 'so irrational as to be perverse' (para. 48) and that it had been made in an unfair and unjust manner.<br><br><strong>Key passage(s)</strong><br>• 'The Secretary of State, however, was bound to give proper consideration to all relevant factors before coming to a decision. That he singularly failed to do. He was also bound to give reasons for his decision. That too he failed to do. His decision was therefore irrational and in breach of the claimant’s right to a fair hearing.' (Lord Brown, para. 48)"
     },
     {
-      "name": "Stack v Dowden [2007] UKHL 17",
-      "keywords": ["property law", "cohabitation", "trusts", "ownership", "family home"]
-    },
-    {
-      "name": "R (on the application of Jackson) v Attorney General [2005] UKHL 56",
-      "keywords": ["constitutional", "parliamentary sovereignty", "legislation", "judicial review", "Human Rights Act"]
-    },
-    {
-      "name": "Campbell v Mirror Group Newspapers Ltd [2004] UKHL 22",
-      "keywords": ["media law", "privacy", "defamation", "freedom of the press", "public interest"]
-    },
-    {
-      "name": "R (on the application of Limbuela) v Secretary of State for the Home Department [2005] UKHL 66",
-      "keywords": ["immigration law", "asylum seekers", "human rights", "destitution", "right to work"]
-    },
-    {
       "name": "A v Secretary of State for the Home Department [2004] UKHL 56",
-      "keywords": ["immigration law", "deportation", "refugees", "human rights", "statelessness"]
+      "keywords": ["immigration law", "deportation", "refugees", "human rights", "statelessness"],
+      "summary": ""
     },
     {
       "name": "R (on the application of H) v Mental Health Review Tribunal for the North and East London Region and the Secretary of State for Health [2005] UKHL 60",
-      "keywords": ["mental health law", "detention", "human rights", "treatment", "patient rights"]
+      "keywords": ["mental health law", "detention", "human rights", "treatment", "patient rights"],
+      "summary": ""
     },
     {
       "name": "R v A (No 2) [2001] UKHL 25",
-      "keywords": ["criminal law", "sexual offenses", "consent", "rape", "evidence"]
+      "keywords": ["criminal law", "sexual offenses", "consent", "rape", "evidence"],
+      "summary": ""
     },
     {
       "name": "Regina v Bartle and the Commissioner of Police for the Metropolis and Others, Ex Parte Pinochet [1999] UKHL 1",
-      "keywords": ["international law", "extradition", "crimes against humanity", "immunity", "universal jurisdiction"]
+      "keywords": ["international law", "extradition", "crimes against humanity", "immunity", "universal jurisdiction"],
+      "summary": ""
     },
     {
       "name": "Fairchild v Glenhaven Funeral Services Ltd and others [2002] UKHL 22",
-      "keywords": ["tort law", "negligence", "causation", "liability", "asbestos-related diseases"]
+      "keywords": ["tort law", "negligence", "causation", "liability", "asbestos-related diseases"],
+      "summary": ""
     },
     {
       "name": "R (on the application of Anderson) v Secretary of State for the Home Department [2002] UKHL 46",
-      "keywords": ["immigration law", "detention", "human rights", "asylum seekers", "unlawful detention"]
+      "keywords": ["immigration law", "detention", "human rights", "asylum seekers", "unlawful detention"],
+      "summary": ""
     },
     {
       "name": "R v Secretary of State for the Home Department, ex parte Simms [2000] UKHL 5",
