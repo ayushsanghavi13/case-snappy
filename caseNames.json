@@ -123,32 +123,12 @@
     {
       "name": "A v Secretary of State for the Home Department [2004] UKHL 56",
       "keywords": ["immigration law", "deportation", "refugees", "human rights", "statelessness"],
-      "summary": ""
+      "summary": "<strong>Facts</strong><br>• A was a Libyan national who had been granted indefinite leave to remain in the UK.<br>• In 1995, he was arrested and detained on suspicion of involvement in terrorism.<br>• Following the 9/11 attacks, A was certified as a threat to national security and detained without trial under the Anti-terrorism, Crime and Security Act 2001.<br>• A challenged his detention arguing that it was incompatible with the European Convention on Human Rights (ECHR).<br><br><strong>Issues</strong><br>• The main issue in this case was whether the indefinite detention of foreign nationals without trial under the Anti-terrorism, Crime and Security Act 2001 was compatible with the ECHR.<br>• A also argued that the provisions were discriminatory and contrary to EU law.<br><br><strong>Decision</strong><br>• The House of Lords held that the indefinite detention of foreign nationals without trial under the Anti-terrorism, Crime and Security Act 2001 was incompatible with the ECHR.<br>• However, the majority held that the provisions were not discriminatory or contrary to EU law.<br>• The House of Lords made a declaration of incompatibility, which meant that it was up to the government to decide whether to amend the legislation.<br><br><strong>Key passage(s)</strong><br>• Lord Hoffmann 'This is a nation which has been tested in adversity, which has survived physical destruction and catastrophic loss of life. I do not underestimate the ability of fanatical groups of terrorists to kill and destroy, but they do not threaten the life of the nation. Whether we would survive Hitler hung in the balance, but there is no doubt that we shall survive Al-Qaeda. The Spanish people have not said that what happened in Madrid, hideous crime as it was, threatened the life of the Spanish nation. Their legendary pride would not allow it. Terrorist violence, serious as it is, does not threaten our institutions of government or our existence as a civil community.' (para. 73)<br>• Lord Hope 'I am quite satisfied that the derogation is disproportionate in the sense that it impinges to an unacceptable degree upon the fundamental rights of the individual. It is not, as the government contends, a case in which the individual's right to liberty has to be balanced against the collective interest of the community, for the individual's only link with this country is that he is detained here.' (para. 135)"
     },
     {
       "name": "R (on the application of H) v Mental Health Review Tribunal for the North and East London Region and the Secretary of State for Health [2005] UKHL 60",
       "keywords": ["mental health law", "detention", "human rights", "treatment", "patient rights"],
-      "summary": ""
-    },
-    {
-      "name": "R v A (No 2) [2001] UKHL 25",
-      "keywords": ["criminal law", "sexual offenses", "consent", "rape", "evidence"],
-      "summary": ""
-    },
-    {
-      "name": "Regina v Bartle and the Commissioner of Police for the Metropolis and Others, Ex Parte Pinochet [1999] UKHL 1",
-      "keywords": ["international law", "extradition", "crimes against humanity", "immunity", "universal jurisdiction"],
-      "summary": ""
-    },
-    {
-      "name": "Fairchild v Glenhaven Funeral Services Ltd and others [2002] UKHL 22",
-      "keywords": ["tort law", "negligence", "causation", "liability", "asbestos-related diseases"],
-      "summary": ""
-    },
-    {
-      "name": "R (on the application of Anderson) v Secretary of State for the Home Department [2002] UKHL 46",
-      "keywords": ["immigration law", "detention", "human rights", "asylum seekers", "unlawful detention"],
-      "summary": ""
+      "summary": "<strong>Facts</strong><br>• H was detained under Section 3 of the Mental Health Act 1983 due to his mental illness.<br>• He was diagnosed with a personality disorder and was found to be a risk to himself and others.<br>• H was prescribed medication, but he refused to take it.<br>• The Mental Health Review Tribunal for the North and East London Region (Tribunal) decided to discharge H from detention, but the Secretary of State for Health (Secretary) appealed the decision.<br><br><strong>Issues</strong><br>• The issue was whether the Tribunal had the power to order the discharge of a patient who refused to take prescribed medication, or whether the Tribunal could only discharge a patient who was willing to comply with the medication.<br>• H argued that the Tribunal had the power to discharge him, regardless of his refusal to take medication.<br>• The Secretary argued that the Tribunal could only discharge a patient who was willing to comply with the medication.<br><br><strong>Decision</strong><br>• The House of Lords held that the Tribunal had the power to order the discharge of a patient who refused to take prescribed medication.<br>• The Tribunal had to consider whether the patient’s mental disorder was under control and whether it was necessary for the patient to remain in hospital.<br>• The Tribunal had to balance the patient’s rights against the public interest in protecting the patient and others from harm.<br><br><strong>Key passage(s)</strong><br>• Lord Bingham 'The Tribunal has to consider whether the criteria for detention continue to be met and whether it is necessary for the patient to remain liable to be detained in hospital for the purpose of medical treatment. If the Tribunal concludes that the criteria for detention are no longer satisfied, it must order the discharge of the patient. If it concludes that the criteria continue to be satisfied, it may not order discharge. But if it concludes that the criteria continue to be satisfied and that medical treatment is necessary, it must balance the competing interests, giving particular weight to the paramount need to protect the patient and the public against the risks posed by the patient, and decide whether the patient should be discharged or should remain in hospital for further treatment.' (para. 4)<br>• Lord Rodger 'In this case, the majority of the Tribunal clearly thought that, if H were discharged, the risk of his committing suicide would be significantly increased. The Tribunal was plainly entitled to take that view, based on its own assessment of the evidence. But it was not entitled to say that, because of the risk, it could not make the order for discharge. On the contrary, it was its duty to make the order unless, balancing the risks and benefits, it concluded that it would not be in H's interests to do so.' (para. 44)"
     },
     {
       "name": "R v Secretary of State for the Home Department, ex parte Simms [2000] UKHL 5",
@@ -341,10 +321,6 @@
 {
   "name": "McFarlane v Tayside Health Board (Scotland) [2000] 2 AC 59 (HL)",
   "keywords": ["tort", "negligence", "medical negligence", "wrongful birth"]
-},
-{
-  "name": "Fairchild v Glenhaven Funeral Services Ltd [2002] UKHL 22",
-  "keywords": ["tort", "negligence", "causation", "multiple causes", "mesothelioma"]
 },
   {
     "name": "R v Dudley and Stephens (1884) 14 QBD 273 DC",
