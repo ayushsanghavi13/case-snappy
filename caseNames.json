@@ -167,7 +167,8 @@
 },
     {
   "name": "Caparo Industries plc v Dickman [1990] 2 AC 605",
-  "keywords": ["tort", "negligence", "duty of care", "foreseeability", "proximity", "fairness"]
+  "keywords": ["tort", "negligence", "duty of care", "foreseeability", "proximity", "fairness"],
+      "summary": "<strong>Facts</strong><br>• Caparo Industries (Caparo) acquired shares in Fidelity (a company vulnerable to takeover).<br>• Caparo relied on Fidelity's annual accounts, which showed a significant profit.<br>• However, accountants had negligently misstated Fidelity's financial position; actual profits were much less.<br>• Caparo sued the accountants, alleging negligence in shares evaluation.<br><br><strong>Issues</strong><br>• Could Caparo recover their losses due to the accountants' negligence?<br>• Was there sufficient proximity, foreseeability, and fairness to establish a duty of care?<br>• Caparo argued accountants owed them a duty considering their reliance on financial reports.<br>• Accountants asserted no such duty, as the relationship was too remote, and that auditors must prioritize shareholders.<br><br><strong>Decision</strong><br>• The House of Lords held no duty of care existed between accountants and Caparo.<br>• Despite the closeness and foreseeability, it would be irrational to impose a duty to all potential takeovers.<br>• The threefold test was adopted, meaning duty of care requires foreseeability, proximity, and fairness.<br>• Previous cases, such as Hedley Byrne & Co Ltd v Heller & Partners Ltd [1964] and Anns v Merton London Borough Council [1978], were referred to in the judgment.<br><br><strong>Key passage(s)</strong><br>• 'It is necessary to consider the particular circumstances and relationships which exist in each case having regard to these factors before it can be said that the duty is owed' (Lord Bridge).<br>• 'To demand less degree of proximity, the law would be in danger of creating a multitude of inconsistent decisions and undesirable anomalous consequences on auditors and their insurers' (Lord Oliver).<br>• 'The law has continued to develop on a case-by-case basis' (Lord Roskill)."
 },
 {
   "name": "Rylands v Fletcher [1868] UKHL 1",
@@ -176,7 +177,8 @@
 },
 {
   "name": "McLoughlin v O'Brian [1983] 1 AC 410",
-  "keywords": ["tort", "negligence", "psychiatric harm", "secondary victims"]
+  "keywords": ["tort", "negligence", "psychiatric harm", "secondary victims"],
+      "summary": "<strong>Facts</strong><br>• The plaintiff, Mrs. McLoughlin, witnessed the aftermath of a car accident caused by the defendant, Mr. O'Brian.<br>• The accident resulted in the death of the plaintiff's daughter and serious injuries to her husband and children.<br>• The plaintiff developed nervous shock and sued the defendant for damages.<br><br><strong>Issues</strong><br>• The plaintiff submitted that the defendant owed her a duty of care due to the close relationship between them, the foreseeability of harm and her proximity to the event.<br>• The defendant argued that he owed no duty of care to the plaintiff on the basis that she was not directly involved in the accident and was not physically harmed.<br>• The courts considered whether a duty of care existed and if such a duty was owed to the plaintiff.<br><br><strong>Decision</strong><br>• The House of Lords held that the defendant owed a duty of care to the plaintiff.<br>• The majority, led by Lord Wilberforce, found that the foreseeability of psychiatric harm, the close relationship between the plaintiff and the injured parties, and the plaintiff's proximity to the accident were sufficient to establish a duty of care.<br>• Lord Edmund-Davies and Lord Denning dissented, arguing that there was no proximity between the plaintiff and the defendant, and thus no duty of care existed.<br><br><strong>Key passage(s)</strong><br>• 'Reasonable foreseeability of physical injury to the person claiming damages resulting from the defendant's negligence is certainly not the sole test of the existence of a duty of care, but nevertheless when it is present, as it is here, it is a vital step towards establishing such a duty.' (Lord Bridge)<br>• 'Proximity in this context means not simply physical nearness in space but proximity in circumstances which make it reasonable to say that the party to whom the duty is alleged to be owed either is immediately and directly affected by the act, or is so closely in touch with the act that he can reasonably be said to be in risk.' (Lord Wilberforce)"
 },
 {
   "name": "Bolam v Friern Hospital Management Committee [1957] 1 WLR 582",
@@ -185,7 +187,8 @@
 },
 {
   "name": "Bolton v Stone [1951] AC 850",
-  "keywords": ["tort", "negligence", "risk", "reasonable person"]
+  "keywords": ["tort", "negligence", "risk", "reasonable person"],
+      "summary": "<strong>Facts</strong><br>• In Bolton v Stone [1951] AC 850, the plaintiff, Miss Stone, was injured by a cricket ball that had been hit from a nearby cricket ground. <br>• The cricket ground had a fence that was 17 feet high. <br>• In the previous 30 years, a ball had only been hit out of the ground six times, and this particular hit was estimated to have been a one in 100,000 chance. <br>• Miss Stone sued the cricket club for negligence. <br><br><strong>Issues</strong><br>• The issue in the case was whether the cricket club was negligent in not taking further precautions to prevent the rare occurrence of a cricket ball hitting a passer-by outside the ground. <br>• The plaintiff argued that the club was negligent in failing to take reasonable precautions to protect passers-by from injury. <br>• The defendant contended that the risk of injury was so small that it was not reasonably foreseeable, and therefore they were not negligent. <br><br><strong>Decision</strong><br>• The House of Lords held that there was no negligence on the part of the cricket club. <br>• They found that the risk of injury was so small that it was not reasonably foreseeable and that the club had taken sufficient precautions. <br>• The case distinguished between the magnitude of the risk and the likelihood of its occurrence. <br>• This decision was influenced by the Court of Appeal's decision in Miller v Jackson [1977] QB 966, which involved a similar situation and dealt with the concept of reasonable foreseeability.<br><br><strong>Key passage(s)</strong><br>• 'It is not every risk of the occurrence of which a person can reasonably foresee that imposes a duty of taking preventative action... where the risk is small, and the incidents are few and far between, the law does not require a person, ... in the management of his property, to guard against that risk.' (Lord Oaksey) <br>• 'You must balance the risk against the measures necessary to eliminate the risk... and if the risk is so small, that it can properly be regarded as fanciful, and, in any event, the measures necessary to eliminate the possibility of any danger would be wholly unreasonable, then no duty to take such measures arises at all.' (Lord Porter)"
 },
 {
   "name": "Hedley Byrne & Co Ltd v Heller & Partners Ltd [1964] AC 465",
@@ -194,7 +197,8 @@
 },
 {
   "name": "Wilkinson v Downton [1897] 2 QB 57",
-  "keywords": ["tort", "intentional infliction of harm", "psychiatric harm"]
+  "keywords": ["tort", "intentional infliction of harm", "psychiatric harm"],
+      "summary": "<strong>Facts</strong><br>• The plaintiff, Mrs. Wilkinson, was tricked by the defendant, Downton, into believing that her husband had suffered a terrible accident at the defendant's pub.<br>• The defendant told her that her husband had fractured both of his legs and was lying in the pub, helpless and in great agony.<br>• As a result, the plaintiff experienced severe physical and emotional distress and ultimately sued Downton for damages.<br><br><strong>Issues</strong><br>• The plaintiff argued that the defendant's intentional and fraudulent misrepresentation caused her physical and emotional harm.<br>• The defendant contended that there was no actionable wrong as no physical force was used, and mental suffering alone is not a sufficient ground for liability.<br><br><strong>Decision</strong><br>• The court held that the defendant was liable as his conduct was a willful act unlawfully causing harm to the plaintiff.<br>• The court found that the defendant's conduct was a willful, malicious, and unlawful act that resulted in direct and immediate harm to the plaintiff.<br>• Though mental suffering alone is not sufficient for a tortious claim, the plaintiff's physical suffering in response to the defendant's misrepresentation was actionable.<br>• The court ultimately awarded £100 in damages to the plaintiff.<br><br><strong>Key passage(s)</strong><br>• 'A malicious falsehood, unattended with damage, might not be the ground of an action; but here there was palpable damage proximately caused by what the learned judge termed an act of willful misfeasance in wrongfully and maliciously procuring the plaintiff's illness.' (Wright J)<br>• 'The defendant by his wilful and wanton act, done with the knowledge that it would injure the plaintiff in her nervous system, has caused her to suffer by the shock of hearing the false statement.' (Lord Esher MR)<br>• 'The defendant has made a false and malicious statement calculated to cause physical injury to the plaintiff, a highly nervous woman, which does in fact cause immediate physical injury to her, and I think the rule is satisfied.' (Bowen LJ)"
 },
 {
   "name": "Home Office v Dorset Yacht Co Ltd [1970] AC 1004",
@@ -203,47 +207,53 @@
 },
 {
   "name": "Anns v Merton London Borough Council [1978] AC 728",
-  "keywords": ["tort", "negligence", "duty of care", "building regulations"]
+  "keywords": ["tort", "negligence", "duty of care", "building regulations"],
+      "summary": "<strong>Facts</strong><br>• In Anns v Merton London Borough Council, a local authority was sued because a building they inspected and certified as safe had defects, causing it to be demolished.<br>• The plaintiffs were lessees of the flats, who claimed that the council was negligent.<br>• The council argued that they owed no duty of care to the plaintiffs.<br><br><strong>Issues</strong><br>• The plaintiffs argued that the council owed them a duty of care because they relied on their inspection and approval.<br>• The council contended that they owed no such duty because they had not directly assumed responsibility for the plaintiffs.<br><br><strong>Decision</strong><br>• The House of Lords held in favour of the plaintiffs, finding the council owed a duty of care to them.<br>• This decision introduced a two-stage test of proximity and policy, determining that a duty of care existed.<br>• The court considered the case of Donoghue v Stevenson, wherein a duty of care was established due to the neighbour principle, and expanded on this principle.<br><br><strong>Key passage(s)</strong><br>• 'Through the trilogy ofcases running from Hedley Byrne & Co Ltd v Heller & Partners Ltd [1964] AC 465, through Dorset Yacht Co Ltd v Home Office [1970] AC 1004, to Home Office v Dorset Yacht Co Ltd [1970] AC 1004, the conception of proximity has been further refined so as to embrace not only physical proximity, temporal proximity and circumstantial proximity, but also proximity of relationship.' (Lord Wilberforce)<br>• '[W]hether, to adopt the phrase first used by Lord Atkin, the matter in respect of which a duty of care was sought...will in the generality of cases have been something sufficiently proximate in the Donoghue v Stevenson sense.' (Lord Keith of Kinkel)"
 },
 {
   "name": "Nettleship v Weston [1971] 2 QB 691",
-  "keywords": ["tort", "negligence", "standard of care", "learner driver"]
+  "keywords": ["tort", "negligence", "standard of care", "learner driver"],
+      "summary": "<strong>Facts</strong><br>• Nettleship v Weston [1971] 2 QB 691 is an English tort law case concerning the standard of care required by learners in negligence.<br>• Mrs. Weston was a learner driver under the supervision of Mr. Nettleship, who was an experienced driver.<br>• Mrs. Weston negligently lost control of the vehicle, causing an accident that resulted in Mr. Nettleship's injury.<br>• Mr. Nettleship sued Mrs. Weston for negligence.<br><br><strong>Issues</strong><br>• The main issue was whether a learner driver, Mrs. Weston, should be held to the same standard of care as an experienced driver in a negligence claim.<br>• Mrs. Weston's argument was that, as a learner driver, she should only be expected to exercise the level of skill reasonably expected for a beginner driver – not the same level expected from a fully qualified and experienced driver.<br>• Mr. Nettleship argued that Mrs. Weston should be held to the same standard of care as an experienced driver.<br><br><strong>Decision</strong><br>• The Court of Appeal held that Mrs. Weston was liable for the negligence as she should be held to the same standard of care as an experienced driver.<br>• The court reasoned that imposing a lower standard of care for learners would not be fair to the rest of the road users who expect a minimum standard of care from everyone on the road.<br>• The court also referenced the principle established in Paris v Stepney [1951] AC 367, that a defendant can only be held to a standard of reasonable care which was objective, not subjective to the individual.<br><br><strong>Key passage(s)</strong><br>• 'The learner driver must attain at least the objective standard of the reasonable driver, for the safety of other road users demands no less.' (Lord Denning MR)<br>• 'All who go on the road must exercise their skill and care, so as not needlessly to imperil others… The only standard is the standard of the reasonable man.'"
 },
 {
   "name": "Paris v Stepney Borough Council [1951] AC 367",
-  "keywords": ["tort", "negligence", "standard of care", "employer's duty"]
+  "keywords": ["tort", "negligence", "standard of care", "employer's duty"],
+      "summary": "<strong>Facts</strong><br>• The plaintiff, Mr. Edmund Paris, was a one-eyed car mechanic employed by Stepney Borough Council.<br>• The defendant provided protective goggles to employees performing welding work, but not to those doing general mechanical work.<br>• An accident occurred in the course of Paris's employment in which a metal shaving entered his only good eye, leading to total blindness.<br>• Paris brought an action against the Council for negligence, claiming a duty to provide protective goggles.<br><br><strong>Issues</strong><br>• Paris argued that the employer had a duty to provide goggles due to the foreseeability of harm and the gravity of potential injury.<br>• The Council argued that no such duty existed, given the rarity of such accidents and the added cost of providing goggles for all employees.<br>• The court needed to address whether the employer breached its duty of care by not providing goggles to Paris, even if the risk was minimal.<br><br><strong>Decision</strong><br>• The House of Lords held that the Council was liable for Paris's injuries.<br>• The Council breached its duty of care by not providing Paris with protective goggles, given the foreseeable risk of serious injury.</strong><br>• The employer's knowledge of the plaintiff's vulnerability was a crucial factor in finding a breach of duty.<br><br><strong>Key passage(s)</strong><br>• Lord Oaksey: 'In considering...whether there has been any want of due care, one of the most important factors must be the degree of the risk that injury would result.'<br>• Lord Normand: 'The calculation of risk and the relationship of risk to expense may sometimes require further refinement; for sometimes the injured person is peculiarly exposed to risk and then the question is whether the precautions were so expensive as to leave a reasonable employer to accept the risk.'<br>• Lord MacDermott: 'The degree of the risk must indeed be an important, if not the main, element in determining whether there has been an actionable want of due care.'"
 },
 {
   "name": "Overseas Tankship (UK) Ltd v Morts Dock and Engineering Co Ltd (The Wagon Mound) [1961] AC 388",
-  "keywords": ["tort", "negligence", "remoteness of damage", "reasonable foreseeability"]
+  "keywords": ["tort", "negligence", "remoteness of damage", "reasonable foreseeability"],
+      "summary": "<strong>Facts</strong><br>• In the case of Overseas Tankship (UK) Ltd v Morts Dock and Engineering Co Ltd (The Wagon Mound) [1961] AC 388, the defendant's vessel, the Wagon Mound, was moored in the claimant's wharf in Sydney Harbour to undergo repairs.<br>•During these repairs, a piece of cotton waste saturated with oil caught fire, with sparks igniting oil which had leaked into the harbor water from the Wagon Mound.<br>•The fire caused significant damage to two of the claimant's vessels as well as their wharf.<br><br><strong>Issues</strong><br>• The issue in this case was whether the defendant was liable for the damage caused by the fire.<br>• The claimant argued that the defendant was negligent in allowing the oil to leak into the harbor, which caused the fire.<br>• The defendant argued that the fire was not foreseeable, and thus they should not be held liable for the damages.<br><br><strong>Decision</strong><br>• The House of Lords held that the defendant was not liable for the damage.<br>• The court applied the test of foreseeability, established in Donoghue v Stevenson [1932] UKHL 100, and found that the defendant could not have reasonably foreseen that their negligence would lead to the fire and consequent damages.<br>• In reaching this decision, the court also overruled the case of Re Polemis & Furness Withy & Co Ltd [1921] 3 KB 560, which held that once negligence was established, a defendant would be liable for all direct consequences of their actions, regardless of whether the consequences were foreseeable.<br><br><strong>Key passage(s)</strong><br>• 'It is sufficient to say that in their Lordships' opinion 'the essential factor in determining liability is whether the damage is of such a kind as the reasonable man should have foreseen.' Which means, of course, whether the reasonable man would have foreseen, not the exact sequence of events, but that kind of damage.' (Viscount Simonds)<br>• 'A man must be regarded as responsible for the probable consequences of his act. To demand more of him is too harsh a rule, to demand less is to endanger the public interest.' (Lord Reid)"
 },
 {
   "name": "Page v Smith [1996] AC 155",
-  "keywords": ["tort", "negligence", "psychiatric harm", "foreseeability"]
+  "keywords": ["tort", "negligence", "psychiatric harm", "foreseeability"],
+      "summary": "<strong>Facts</strong><br>• Page sustained a depressive illness as a result of the 1988 accident when Smith lost control of his car which hit Page's vehicle.<br>• Page was suffering from myalgic encephalomyelitis (ME) at the time, but Smith was not aware of this.<br>• The depressive illness worsened Page's ME resulting in severe disability, and he claimed damages from Smith.<br><br><strong>Issues</strong><br>• The main issue was whether Smith was liable for Page's worsening ME condition resulting from the depressive illness.<br>• Smith argued that he should not be held liable as the ME was an unforeseeable consequence of the accident, and the psychiatric injury was a mere materialization of an existing disease.<br>• Page argued that his ME condition would not have worsened if not for the accident.<br><br><strong>Decision</strong><br>• The House of Lords held Smith liable for the worsening of Page's ME condition as a result of the injury sustained in the accident.<br>• The Lords applied the eggshell skull rule and reasoned that finding liability did not depend on whether the consequences were foreseeable or not.<br>• The Lords also referred to the case of Bourhill v Young [1943] AC 92, where no duty of care arose regarding unforeseen psychiatric harm.<br>• However, in this case, a duty of care existed as the physical injury caused by Smith's negligence worsened Page's ME condition.<br><br><strong>Key passage(s)</strong><br>• '[T]he law gives effect to the 'egg-shell skull' rule which requires a tortfeasor to take his victim as he finds him' (Lord Clyde).<br>• 'If one accepts that there is a risk of injury from such an accident, I do not see how one can divorce the consequences flowing from Page's particular reaction to the accident from the risk of injury involved in the accident' (Lord Lloyd)."
 },
 {
   "name": "Smith v Leech Brain & Co Ltd [1962] 2 QB 405",
-  "keywords": ["tort", "negligence", "thin skull rule", "remoteness of damage"]
-},
-{
-  "name": "Robinson v Chief Constable of West Yorkshire Police [2018] UKSC 4",
-  "keywords": ["tort", "negligence", "police immunity", "duty of care"]
+  "keywords": ["tort", "negligence", "thin skull rule", "remoteness of damage"],
+      "summary": "<strong>Facts</strong><br>• In Smith v Leech Brain & Co Ltd [1962] 2 QB 405, the claimant, Mr. Smith, worked in the defendant's factory.<br>• An accident occurred whereby the claimant was splashed with a small amount of molten metal.<br>• The metal burned Mr. Smith's lip, leading to the development of cancer and his subsequent death.<br>• The claimant's widow brought an action for damages.<br><br><strong>Issues</strong><br>• The key issue in the case was whether the defendant could be held liable for Mr. Smith's death.<br>• The defendant argued that his death resulted from an unforeseeable consequence of the accident, and therefore they should not be held liable.<br>• Conversely, the claimant's widow argued that the defendant was liable as they had breached their duty of care by allowing the accident to happen.<br><br><strong>Decision</strong><br>• The court held that the defendants were liable for Mr. Smith's death. <br>• The court applied the principle established in Hughes v Lord Advocate [1963] AC 837, which stated that if the injury was foreseeable, the defendant would be liable for the entire consequences of their actions, even if the extent of the harm was not foreseeable.<br>• In this case, it was foreseeable that the claimant could suffer burn injuries from the molten metal.<br>• Thus, the defendant was held liable for the full extent of the harm caused to the claimant.<br><br><strong>Key passage(s)</strong><br>• 'If a man is negligently run over when he is suffering from some internal disease which makes it likely that the injuries sustained will be graver than they would be to a healthy man, the motorist is not excused from paying for the grave consequences' (Lord Morris of Borth-Y-Gest).<br>• 'If A negligently injures B, I do not believe that A can escape liability merely because matters take a turn not contemplated' (Lord Pearce).<br>• 'It is true that in some cases the disease can be regarded as the real cause of the loss, but there are too many cases where it is difficult or impossible to say whether the disease or the accident is the effective cause for one to draw any line of demarcation between the two cases' (Lord Guest)."
 },
 {
   "name": "Cambridge Water Co Ltd v Eastern Counties Leather plc [1994] 2 AC 264",
-  "keywords": ["tort", "negligence", "remoteness of damage", "foreseeability", "environmental pollution"]
+  "keywords": ["tort", "negligence", "remoteness of damage", "foreseeability", "environmental pollution"],
+      "summary": "<strong>Facts</strong><br>• Cambridge Water Co Ltd (Cambridge Water) provided water to customers and owned a nearby borehole.<br>• Eastern Counties Leather plc (ECL) owned a tannery that contaminated the borehole's groundwater with solvents.<br>• The chemicals were found to be too high for consumption, rendering the borehole unusable.<br>• Cambridge Water sued ECL for the loss of their water supply.<br><br><strong>Issues</strong><br>• Whether ECL should be held liable for negligently causing contamination to the groundwater.<br>• The foreseeability of the harm caused.<br>• ECL's argument that they should not be held liable due to the unknown long-term effects of the chemicals used, and lack of knowledge that the chemicals would contaminate the borehole.<br>• Cambridge Water's argument that ECL should be held liable for the contamination, as they were negligent in disposing the chemicals.<br><br><strong>Decision</strong><br>• The House of Lords held that ECL was not liable for Cambridge Water's losses due to the contamination of the borehole.<br>• The court found that the harmful effects of the contaminants were not reasonably foreseeable by ECL, as neither party knew, or should have known, about the harmful relationship between the chemicals and groundwater.<br>• Additionally, the court held that a reasonable person in ECL's position would not have taken any additional precautions in disposing of the chemicals.<br>• The court applied the 'reasonable foreseeability of harm' test from Rylands v Fletcher (1868) LR 3 HL 330, stating that foreseeability was a significant factor in determining ECL’s responsibility.<br><br><strong>Key passage(s)</strong><br>• 'In my judgment, the requirement that the damage should have been reasonably foreseeable in the sense I have indicated accords both with principle and with the doctrine of Rylands v. Fletcher itself. It is also consistent with this House's decisions in Albery v. B.G.C. Ltd. [1985] A.C. 1044 and Maher v. Southern Water Authority.' (Lord Goff)"
 },
 {
   "name": "Hill v Chief Constable of West Yorkshire [1989] AC 53",
-  "keywords": ["tort", "negligence", "police immunity", "duty of care"]
+  "keywords": ["tort", "negligence", "police", "duty of care"],
+      "summary": "<strong>Facts</strong><br>• In 1980, Jacqueline Hill was the 13th victim of the notorious 'Yorkshire Ripper,' Peter Sutcliffe.<br>• The police investigation had been severely criticized for its handling of the case, including failure to arrest Sutcliffe earlier.<br>• Hill's mother sued West Yorkshire's Chief Constable, alleging negligence and seeking damages.<br>• The case ultimately reached the House of Lords in 1989.<br><br><strong>Issues</strong><br>• The central issue was whether the police owed a duty of care to individual members of the public, specifically to potential victims of serial killers.<br>• The plaintiff argued that the police were negligent in their investigation and breached their duty, leading to the death of Ms. Hill.<br>• Conversely, the defendant contended that there was no duty of care owed to individual members of the public in relation to the detection and prevention of crimes.<br><br><strong>Decision</strong><br>• The House of Lords ruled in favor of the defendant, holding that the police do not owe a duty of care to individual members of the public in relation to the investigation and prevention of crime.<br>• This was based on public policy considerations, including the risk that imposing such a duty would divert police resources and impede effective law enforcement.<br>• The Court also relied on the precedent set in Anns v Merton London Borough Council [1978] AC 728, which established a two-stage test for determining whether a duty of care exists.<br><br><strong>Key passage(s)</strong><br>• 'It is indeed clear that this is a field in which the imposition of a duty of care may lead not to greater care but to defensive practices having the consequence that the police turned their energies to the avoidance of such liability instead of concentrating on their responsibilities for the prevention and detection of crime.' (Lord Keith)<br>• 'It would be contrary to the public interest to impose on police forces and their officers a liability in damages which would entail that they might from time to time be called on to account in the ordinary courts for the way in which they had performed their functions.' (Lord Keith)<br>• 'I can find no threat to the proficiency of the police in the ambit within which they are at present answerable to the law.' (Lord Oliver)"
 },
 {
   "name": "Murphy v Brentwood District Council [1991] 1 AC 398",
-  "keywords": ["tort", "negligence", "economic loss", "duty of care", "property damage"]
+  "keywords": ["tort", "negligence", "economic loss", "duty of care", "property damage"],
+      "summary": "<strong>Facts</strong><br>• The plaintiff, Mr. Murphy, purchased a house from Brentwood District Council, the defendants.<br>• Drainage works related to the house were not properly constructed, causing the house to be damaged and unsafe for habitation.<br>• Mr. Murphy sued the council for the cost of repairing the house and won in the lower courts, relying on the principle of negligence established in Anns v Merton London Borough Council (1978).<br><br><strong>Issues</strong><br>• The council argued that it did not owe a duty of care to Mr. Murphy, as any loss was purely economic.<br>• Mr. Murphy claimed that the council owed a duty of care in construction resulting in physical damage to the house.<br><br><strong>Decision</strong><br>• The House of Lords unanimously overturned the lower courts' decisions.<br>• They held that the damage was purely economic rather than physical, as the house itself was not damaged but rather reduced in value due to the negligent construction.<br>• In doing so, the House of Lords overruled the Anns case, holding that the local authority does not owe a duty of care to protect against purely economic loss arising from construction defects.<br><br><strong>Key passage(s)</strong><br>• 'The time has now come for the Anns test to be laid to rest'[...]The purpose of such liability is to afford compensation for loss;' (Lord Keith of Kinkel)"
 },
 {
   "name": "Watson v British Boxing Board of Control [2001] QB 1134",
-  "keywords": ["tort", "negligence", "duty of care", "sporting injury"]
+  "keywords": ["tort", "negligence", "duty of care", "sporting injury"],
+      "summary": "<strong>Facts</strong><br>• In this case, Michael Watson, a professional boxer, sustained severe brain damage during a world title fight against Chris Eubank.<br>• The British Boxing Board of Control (BBBC) was the body responsible for regulating the sport, including the safety measures enforced during fights.<br>• Watson argued that the BBBC was in breach of the duty of care that they owed him as a participant, and he sought damages for personal injury.<br><br><strong>Issues</strong><br>• Watson's legal team argued that the BBBC owed a duty of care to ensure his safety, which was breached by inadequate safety regulations such as the lack of medical staff present at the event, as well as the absence of proper procedures to manage head injuries during the fight.<br>• The BBBC denied that such a duty of care existed, and contended that Watson voluntarily participated in a dangerous sport and thus assumed the risk of injury.<br><br><strong>Decision</strong><br>• The court held that the BBBC did indeed owe a duty of care to Watson, and was in breach of this duty because of its inadequate safety measures.<br>• Watson was awarded damages for his injuries.<br>• The court established that governing bodies of sports can be held liable for breaching their duty of care to participants if they fail to take reasonable steps to ensure safety.<br><br><strong>Key passage(s)</strong><br>• 'In those circumstances the Board does, in our judgment, owe a duty to exercise reasonable care in carrying out its regulatory functions in relation to the promotion of the safety of professional boxers' (Lord Justice Phillips).<br>• 'The rules of the Board and its enforcement of them may actually have the effect of increasing the risk to the boxer by encouraging him to continue a contest when, but for the referee's intervention, he would have retired' (Lord Justice Phillips)."
 },
   {
     "name": "R v Dudley and Stephens (1884) 14 QBD 273 DC",
@@ -252,367 +262,458 @@
   },
   {
     "name": "R v R [1992] 1 AC 599, HL",
-    "keywords": ["criminal", "rape", "marital rape", "consent"]
+    "keywords": ["criminal", "rape", "marital rape", "consent"],
+      "summary": "<strong>Facts</strong><br>• In 1991, a husband and wife separated but were not yet divorced.<br>• The husband raped his wife against her will after they separated.<br>• The husband was charged with rape.<br>• Before this case, it was widely accepted that a husband could not be charged with raping his wife ('marital rape exemption').<br><br><strong>Issues</strong><br>• The prosecution argued that the marital rape exemption should no longer exist in law, as it is outdated and contrary to modern society's recognition of equal rights for women.<br>• The defense argued that the marital rape exemption is a well-established principle and should continue to apply.<br><br><strong>Decision</strong><br>• The House of Lords (HL) decided that the marital rape exemption should no longer apply.<br>• The husband was found guilty of rape, and the decision effectively abolished the marital rape exemption in English law.<br>• There was no need to wait for Parliament to legislate changes.<br><br><strong>Key passage(s)</strong><br>'Nowadays it cannot seriously be maintained that by marriage a wife submits herself irrevocably to sexual intercourse in all circumstances and to any act of physical intimacy on the part of her husband which may be involved.' (Lord Keith of Kinkel)<br>• 'It is the essence of the common law to respond to changing social conditions by adapting and modifying its rules.' (Lord Keith of Kinkel)<br>• 'There is no longer any rational justification for continuing to treat sexual intercourse in marriage as a category of conduct to which special rules apply.' (Lord Lowry)"
   },
   {
     "name": "R v Gnango [2011] UKSC 59",
-    "keywords": ["criminal", "joint enterprise", "murder", "transferred malice"]
+    "keywords": ["criminal", "joint enterprise", "murder", "transferred malice"],
+      "summary": "<strong>Facts</strong><br>• In R v Gnango [2011] UKSC 59, the appellant, Gnango, was involved in a shootout with another man known as 'Bandana Man'.<br>• Both fired guns at each other in a public place, however neither of them was harmed.<br>• While Bandana Man was aiming at Gnango, a stray bullet struck and killed an innocent bystander.<br>• Gnango was subsequently charged and convicted with murder based on the doctrine of joint enterprise.<br>• He appealed, arguing that the trial judge failed to properly direct the jury on the issue of joint enterprise, which resulted in his conviction.<br><br><strong>Issues</strong><br>• The main issue was whether Gnango could be held liable for the murder, even though he did not directly cause the death of the bystander.<br>• The prosecution argued that both men were engaged in a criminal enterprise, namely a gunfight, which resulted in the murder, and therefore both were liable for the crime.<br>• The defense argued that Gnango could not be held liable as he was neither the principal offender nor had the intention to assist or encourage Bandana Man in committing the murder.<br><br><strong>Decision</strong><br>• The Supreme Court, in a 5-2 majority, upheld Gnango's conviction for murder.<br>• The Court found that both participants in the criminal joint enterprise, assuming that each intended to kill or cause serious harm, could be held liable for the murder that arose from the execution of that enterprise.<br>• The Court also rejected the argument that jury's verdict was inconsistent, finding that the joint enterprise requirement of necessary foresight had been satisfied in Gnango's case.<br><br><strong>Key passage(s)</strong><br>• 'There can be no doubt that both appellants were engaged together in a violent gunfight [...] Their agreement to fight each other provided assistance and encouragement for the commission of their respective individual acts of violence' (Lord Phillips).<br>• 'In my judgment the unlawfulness of the criminal joint enterprise lies not in the absence of such an agreement, but in the fact that the principal and the secondary party have unlawfully combined together, intending that each should commit a specified unlawful act or a specified type of unlawful act.' (Lord Dyson)."
   },
   {
     "name": "R v Brown [1994] 1 AC 212",
-    "keywords": ["criminal", "consent", "sadomasochistic", "assault"]
+    "keywords": ["criminal", "consent", "sadomasochistic", "assault"],
+      "summary": "<strong>Facts</strong><br>• In R v Brown, a group of five participants engaged in consensual sado-masochistic acts, causing each other varying degrees of physical harm.<br>• The acts included beatings, brandings, and genital torture, but the participants had all willingly consented to the harm.<br>• They were convicted under the Offences Against the Person Act 1861 (OAPA) for assault occasioning actual bodily harm (ABH) and unlawful wounding.<br>• The defendants appealed, arguing that consent was a valid defence.<br><br><strong>Issues</strong><br>• The main issue was whether the defendants' consent to the harm could serve as a valid defence to the charges under the OAPA.<br>• The defendants argued that because the acts were conducted in private, between consenting adults, and without any lasting harm, consent should be a valid defence.<br>• The prosecution argued that, considering the serious nature of the inflicted harm, public policy required that consent be invalid as a defence.<br><br><strong>Decision</strong><br>• The House of Lords upheld the convictions, ruling that consent was not a valid defence to ABH and unlawful wounding in these circumstances.<br>• The judges held that, even though the acts were consensual, the public policy concerns regarding violent and dangerous behaviour prevailed over the interests of individual privacy and autonomy.<br>• The court referred to R v Donovan (1934) and R v Wilson (1996), finding that, previously, consent had not been considered a valid defence in cases involving such serious harm.<br><br><strong>Key passage(s)</strong><br>• 'Society is entitled and bound to protect itself against a cult of violence. Pleasure derived from the infliction of pain is an evil thing. Cruelty is uncivilised.' (Lord Templeman)<br>• 'The state has an interest in maintaining a decent society, and that means controlling the extent to which one citizen can cause harm to another.' (Lord Lowry)"
   },
   {
     "name": "R v Woolin [1999] 1 AC 82, HL",
-    "keywords": ["criminal", "murder", "mens rea", "oblique intention"]
+    "keywords": ["criminal", "murder", "mens rea", "oblique intention"],
+      "summary": "<strong>Facts</strong><br>• The appellant, Mr. Woolin, threw his three-month-old son across the room, who consequently suffered a fatal head injury.<br>• Woolin was charged with murder and the trial judge directed the jury using the test for oblique intention provided in R v Nedrick [1986] 3 All ER 1 (the defendant should foresee that the prohibited result is 'virtually certain' to occur).<br>• Woolin was convicted of murder, but the Court of Appeal reduced the conviction to manslaughter.<br>• The Crown appealed this decision to the House of Lords.<br><br><strong>Issues</strong><br>• The key issue was whether the Nedrick test for oblique intention was correct in directing juries in cases of murder where direct intent could not be proven.<br>• The Crown argued that the test was correct and that Woolin's conviction for murder should be reinstated.<br>• Woolin argued that the test was not correct and that his conviction for manslaughter should stand.<br><br><strong>Decision</strong><br>• The House of Lords held that the Nedrick test should not be regarded as a separate test for intent, but rather a clarification of the ordinary meaning of intention.<br>• It was decided that a jury should find intention if satisfied that the defendant foresaw death or serious bodily harm as a 'virtual certainty' but that foreseeing a result is not the same as intending it.<br>• The Lords dismissed the Crown's appeal and upheld Woolin's conviction for manslaughter.<br><br><strong>Key passage(s)</strong><br>• 'Where the charge is murder and in the rare cases where the simple direction is not enough, the jury should be directed that they are not entitled to infer the necessary intention, unless they feel sure that death or serious bodily harm was a virtual certainty (barring some unforeseen intervention) as a result of the defendant's actions and that the defendant appreciated that such was the case.' (Lord Steyn)<br>• 'We take the opportunity of affirming the decision of the Court of Appeal in this case that to substitute 'a substantial risk' for 'a virtual certainty' is a misdirection.' (Lord Hope)"
   },
   {
     "name": "R v Ireland; R v Burstow [1998] AC 147",
-    "keywords": ["criminal", "harassment", "psychological harm", "assault"]
+    "keywords": ["criminal", "harassment", "psychological harm", "assault"],
+      "summary": "<strong>Facts</strong><br>• R v Ireland and R v Burstow were two separate cases that were heard together by the House of Lords (HL).<br>• Ireland was accused of making silent phone calls to three women, causing them psychological harm.<br>• Burstow stalked a woman and engaged in acts such as making harassing phone calls, entering her home without permission, and sending her offensive mail.<br>• Both women suffered from psychological harm as a result of their respective ordeals, with the victim of Burstow developing clinical depression.<br><br><strong>Issues</strong><br>• The issue was whether in the offences of assault occasioning actual bodily harm (ABH) under the s47 Offences Against the Person Act 1861 and malicious wounding or infliction of grievous bodily harm (GBH) under the s20 Offences Against the Person Act 1861, 'bodily harm' could include psychological harm.<br>• The defendants argued that only physical harm should be considered 'bodily harm'.<br>• The prosecution argued that psychological harm should be included within the definition of 'bodily harm'.<br><br><strong>Decision</strong><br>• The HL, in a unanimous decision, held that 'bodily harm' could include psychological harm.<br>• The convictions for Ireland and Burstow were upheld.<br>• The Lords distinguished R v Donovan [1934] 2 KB 498, ruling that Donovan's reasoning that 'bodily harm' was limited to physical harm could not stand.<br><br><strong>Key passage(s)</strong><br>• 'I would therefore construe the word 'inflict' as requiring neither assault nor battery and as extending to the case where the harm is done by any unlawful act.' (Lord Steyn)<br>• 'We have, therefore, reached the conclusion that psychiatric injury comes within the expression 'bodily harm'.' (Lord Steyn)<br>• 'If the words 'actual bodily harm' are to be limited to physical bodily harm, that limitation must derive from the word 'bodily', because the natural meaning of 'actual harm' is simply real or substantial harm, as opposed to harm which is merely transient or trifling. It seems to us that to attach to the word 'bodily' such connotations is not warranted in the context of the Act.' (Lord Steyn)"
   },
   {
     "name": "DPP v Majewski [1977] AC 443",
-    "keywords": ["criminal", "voluntary intoxication", "basic intent", "assault"]
+    "keywords": ["criminal", "voluntary intoxication", "basic intent", "assault"],
+      "summary": ""
   },
   {
     "name": "R v Blaue [1975] 1 WLR 1411",
-    "keywords": ["criminal", "thin skull rule", "manslaughter", "religious belief"]
+    "keywords": ["criminal", "thin skull rule", "manslaughter", "religious belief"],
+      "summary": ""
   },
   {
     "name": "R v Savage; DPP v Parmenter [1992] 1 AC 699",
-    "keywords": ["criminal", "mens rea", "assault", "grievous bodily harm"]
+    "keywords": ["criminal", "mens rea", "assault", "grievous bodily harm"],
+      "summary": ""
   },
   {
     "name": "R v G and Another [2004] 1 AC 1034",
-    "keywords": ["criminal", "arson", "recklessness", "youth"]
+    "keywords": ["criminal", "arson", "recklessness", "youth"],
+      "summary": ""
   },
   {
     "name": "R v Mohan [1976] QB 1",
-    "keywords": ["criminal", "mens rea", "driving", "intent"]
+    "keywords": ["criminal", "mens rea", "driving", "intent"],
+      "summary": ""
   },
   {
     "name": "R v Moloney [1985] 1 AC 905",
-    "keywords": ["criminal", "murder", "mens rea", "intent"]
+    "keywords": ["criminal", "murder", "mens rea", "intent"],
+      "summary": ""
   },
   {
     "name": "R v Nedrick [1986] 1 WLR 1025",
-    "keywords": ["criminal", "murder", "mens rea", "intent"]
+    "keywords": ["criminal", "murder", "mens rea", "intent"],
+      "summary": ""
   },
   {
     "name": "R v Hancock and Shankland [1986] AC 455",
-    "keywords": ["criminal", "murder", "mens rea", "intent"]
+    "keywords": ["criminal", "murder", "mens rea", "intent"],
+      "summary": ""
   },
   {
     "name": "R v Matthews and Alleyne [2003] EWCA Crim 192",
-    "keywords": ["criminal", "murder", "mens rea", "foresight"]
+    "keywords": ["criminal", "murder", "mens rea", "foresight"],
+      "summary": ""
   },
     {
   "name": "Ashburn Anstalt v Arnold [1989] Ch 1",
-  "keywords": ["land law", "proprietary estoppel", "unconscionability"]
+  "keywords": ["land law", "proprietary estoppel", "unconscionability"],
+      "summary": ""
 },
 {
   "name": "Baker v Baker [1993] 1 WLR 925",
-  "keywords": ["land law", "trusts of land", "overreaching"]
+  "keywords": ["land law", "trusts of land", "overreaching"],
+      "summary": ""
 },
 {
   "name": "Bolton v Mahadeva [1972] 1 WLR 1009",
-  "keywords": ["land law", "contractual obligations", "building contract"]
+  "keywords": ["land law", "contractual obligations", "building contract"],
+      "summary": ""
 },
 {
   "name": "Birmingham Midshires Mortgage Services Ltd v Sabherwal [2000] All ER (D) 180",
-  "keywords": ["land law", "mortgages", "priorities"]
+  "keywords": ["land law", "mortgages", "priorities"],
+      "summary": ""
 },
 {
   "name": "Bruton v London and Quadrant Housing Trust [2000] 1 AC 406",
-  "keywords": ["land law", "leases", "non-proprietary leases"]
+  "keywords": ["land law", "leases", "non-proprietary leases"],
+      "summary": ""
 },
 {
   "name": "Carlton Credit Corporation Ltd v Wishaw Metal Co [1972] AC 661",
-  "keywords": ["land law", "mortgages", "creditors"]
+  "keywords": ["land law", "mortgages", "creditors"],
+      "summary": ""
 },
 {
   "name": "City of London Building Society v Flegg [1988] AC 54",
-  "keywords": ["land law", "overreaching", "trusts of land"]
+  "keywords": ["land law", "overreaching", "trusts of land"],
+      "summary": ""
 },
 {
   "name": "Cobbe v Yeoman's Row Management Ltd [2008] UKHL 55",
-  "keywords": ["land law", "proprietary estoppel", "contracts for land"]
+  "keywords": ["land law", "proprietary estoppel", "contracts for land"],
+      "summary": ""
 },
 {
   "name": "Collins v Hertfordshire County Council [1947] Ch 598",
-  "keywords": ["land law", "highways", "public rights of way"]
+  "keywords": ["land law", "highways", "public rights of way"],
+      "summary": ""
 },
 {
   "name": "Dillwyn v Llewelyn [1862] EWHC Ch J67",
-  "keywords": ["land law", "gifts of land", "deeds"]
+  "keywords": ["land law", "gifts of land", "deeds"],
+      "summary": ""
 },
 {
   "name": "Etridge (No.2) [2002] 2 AC 773",
-  "keywords": ["land law", "undue influence", "mortgages"]
+  "keywords": ["land law", "undue influence", "mortgages"],
+      "summary": ""
 },
     {
 "name": "Carlill v Carbolic Smoke Ball Company [1893] 1 QB 256",
-"keywords": ["contract", "offer and acceptance", "unilateral contract", "consideration", "performance"]
+"keywords": ["contract", "offer and acceptance", "unilateral contract", "consideration", "performance"],
+      "summary": ""
 },
 {
 "name": "Pharmaceutical Society of Great Britain v Boots Cash Chemists [1953] 1 QB 401",
-"keywords": ["contract", "offer and acceptance", "self-service", "invitation to treat", "retail"]
+"keywords": ["contract", "offer and acceptance", "self-service", "invitation to treat", "retail"],
+      "summary": ""
 },
 {
 "name": "Partridge v Crittenden [1968] 1 WLR 1204",
-"keywords": ["contract", "offer and acceptance", "advertisement", "invitation to treat", "wild birds"]
+"keywords": ["contract", "offer and acceptance", "advertisement", "invitation to treat"],
+      "summary": ""
 },
 {
 "name": "Fisher v Bell [1961] 1 QB 394",
-"keywords": ["contract", "offer and acceptance", "sale of goods", "invitation to treat", "criminal law"]
+"keywords": ["contract", "offer and acceptance", "sale of goods", "invitation to treat", "criminal law"],
+      "summary": ""
 },
 {
 "name": "Smith v Hughes [1871] LR 6 QB 597",
-"keywords": ["contract", "offer and acceptance", "mistake", "subjective intent", "objective intent"]
+"keywords": ["contract", "offer and acceptance", "mistake", "subjective intent", "objective intent"],
+      "summary": ""
 },
 {
 "name": "Harvey v Facey [1893] AC 552",
-"keywords": ["contract", "offer and acceptance", "communication", "land", "reply"]
+"keywords": ["contract", "offer and acceptance", "communication", "land", "reply"],
+      "summary": ""
 },
 {
 "name": "Entores Ltd v Miles Far East Corporation [1955] 2 QB 327",
-"keywords": ["contract", "offer and acceptance", "communication", "telex", "crossed messages"]
+"keywords": ["contract", "offer and acceptance", "communication", "telex", "crossed messages"],
+      "summary": ""
 },
 {
 "name": "Hyde v Wrench [1840] EWHC Ch J90",
-"keywords": ["contract", "offer and acceptance", "counter-offer", "rejection", "bilateral contract"]
+"keywords": ["contract", "offer and acceptance", "counter-offer", "rejection", "bilateral contract"],
+      "summary": ""
 },
 {
 "name": "Household Fire and Carriage Accident Insurance Co Ltd v Grant [1879] 4 Ex D 216",
-"keywords": ["contract", "offer and acceptance", "postal rule", "communication", "share allocation"]
+"keywords": ["contract", "offer and acceptance", "postal rule", "communication", "share allocation"],
+      "summary": ""
 },
 {
 "name": "Dunlop Pneumatic Tyre Co Ltd v Selfridge & Co Ltd [1915] AC 847",
-"keywords": ["contract", "consideration", "third party rights", "privity", "restrictive covenant"]
+"keywords": ["contract", "consideration", "third party rights", "privity", "restrictive covenant"],
+      "summary": ""
 },
 {
 "name": "Tweddle v Atkinson [1861] EWHC QB J57",
-"keywords": ["contract", "consideration", "third party rights", "privity", "marriage"]
+"keywords": ["contract", "consideration", "third party rights", "privity", "marriage"],
+      "summary": ""
 },
 {
 "name": "Williams v Roffey Bros & Nicholls (Contractors) Ltd [1991] 1 QB 1",
-"keywords": ["contract", "consideration", "economic duress", "modification", "performance"]
+"keywords": ["contract", "consideration", "economic duress", "modification", "performance"],
+      "summary": ""
 },
 {
 "name": "Foakes v Beer [1884] UKHL 1",
-"keywords": ["contract", "consideration", "part payment", "debt", "judgment"]
+"keywords": ["contract", "consideration", "part payment", "debt", "judgment"],
+      "summary": ""
 },
 {
 "name": "Hadley v Baxendale [1854] EWHC J70",
-"keywords": ["contract", "damages", "foreseeability", "breach", "mitigation"]
+"keywords": ["contract", "damages", "foreseeability", "breach", "mitigation"],
+      "summary": ""
 },
     {
   "name": "Penn v Lord Baltimore (1750) 1 Ves Sen 444",
-  "keywords": ["equity", "specific performance", "contract enforcement"]
+  "keywords": ["equity", "specific performance", "contract enforcement"],
+      "summary": ""
 },
 {
   "name": "Tulk v Moxhay [1848] EWHC Ch J34",
-  "keywords": ["equity", "real property", "covenant", "burden of covenant", "third party rights"]
+  "keywords": ["equity", "real property", "covenant", "burden of covenant", "third party rights"],
+      "summary": ""
 },
 {
   "name": "Errington v Errington & Woods [1952] 1 KB 290",
-  "keywords": ["equity", "constructive trust", "contract", "part performance"]
+  "keywords": ["equity", "constructive trust", "contract", "part performance"],
+      "summary": ""
 },
 {
   "name": "Walsh v Lonsdale (1882) 21 Ch D 9",
-  "keywords": ["equity", "lease", "specific performance", "legal estate", "equitable estate"]
+  "keywords": ["equity", "lease", "specific performance", "legal estate", "equitable estate"],
+      "summary": ""
 },
 {
   "name": "Re Rose [1952] EWCA Civ 4",
-  "keywords": ["equity", "trust", "voluntary settlement", "complete constitution of trusts"]
+  "keywords": ["equity", "trust", "voluntary settlement", "complete constitution of trusts"],
+      "summary": ""
 },
 {
   "name": "Lloyds Bank v Rosset [1991] 1 AC 107",
-  "keywords": ["equity", "constructive trust", "matrimonial home", "beneficial interest"]
+  "keywords": ["equity", "constructive trust", "matrimonial home", "beneficial interest"],
+      "summary": ""
 },
 {
   "name": "Re Vandervell’s Trusts (No 2) [1974] Ch 269",
-  "keywords": ["equity", "trust", "resulting trust", "bare trust", "taxation"]
+  "keywords": ["equity", "trust", "resulting trust", "bare trust", "taxation"],
+      "summary": ""
 },
 {
   "name": "Factortame Ltd v Secretary of State for Transport (No 2) [1991] 1 AC 603",
-  "keywords": ["EU", "constitutional", "fishing rights", "supremacy of EU law", "interim relief"]
+  "keywords": ["EU", "constitutional", "fishing rights", "supremacy of EU law", "interim relief"],
+      "summary": ""
 },
 {
   "name": "R v Secretary of State for Transport, ex p Factortame (No 5) [2000] 1 AC 524",
-  "keywords": ["EU", "constitutional", "damages", "fishing rights", "state liability"]
+  "keywords": ["EU", "constitutional", "damages", "fishing rights", "state liability"],
+      "summary": ""
 },
 {
   "name": "Van Gend en Loos v Nederlandse Administratie der Belastingen [1963] ECR 1",
-  "keywords": ["EU", "constitutional", "customs duties", "direct effect"]
+  "keywords": ["EU", "constitutional", "customs duties", "direct effect"],
+      "summary": ""
 },
 {
   "name": "Costa v ENEL [1964] ECR 585",
-  "keywords": ["EU", "constitutional", "nationalisation", "supremacy of EU law"]
+  "keywords": ["EU", "constitutional", "nationalisation", "supremacy of EU law"],
+      "summary": ""
 },
 {
   "name": "Marleasing SA v La Comercial Internacional de Alimentacion SA [1990] ECR I-4135",
-  "keywords": ["EU", "constitutional", "interpretation", "indirect effect"]
+  "keywords": ["EU", "constitutional", "interpretation", "indirect effect"],
+      "summary": ""
 },
 {
   "name": "Unibet (London) Ltd v Justitiekanslern [2007] ECR I-2271",
-  "keywords": ["EU", "gambling", "free movement of services", "proportionality"]
+  "keywords": ["EU", "gambling", "free movement of services", "proportionality"],
+      "summary": ""
 },
 {
   "name": "Thoburn v Sunderland City Council [2002] EWHC 195 (Admin)",
-  "keywords": ["EU", "constitutional", "metric weights", "implied repeal", "supremacy of EU law"]
+  "keywords": ["EU", "constitutional", "metric weights", "implied repeal", "supremacy of EU law"],
+      "summary": ""
 },
   {
   "name": "Osman v United Kingdom [1998] ECHR 101",
-  "keywords": ["duty to protect", "negligence", "right to life", "human rights"]
+  "keywords": ["duty to protect", "negligence", "right to life", "human rights"],
+      "summary": ""
 },
     {
   "name": "Douglas v Hello! Ltd [2001] EWCA Civ 595",
-  "keywords": ["privacy", "freedom of expression", "celebrity", "copyright", "human rights"]
+  "keywords": ["privacy", "freedom of expression", "celebrity", "copyright", "human rights"],
+      "summary": ""
 },
     {
   "name": "Hirst v United Kingdom (No 2) [2005] ECHR 681",
-  "keywords": ["prisoners' rights", "right to vote", "democracy", "human rights"]
+  "keywords": ["prisoners' rights", "right to vote", "democracy", "human rights"],
+      "summary": ""
 },
     {
 "name": "Donovan v R [1934] AC 498",
-"keywords": ["criminal law", "attempted crime", "actus reus", "mens rea"]
+"keywords": ["criminal law", "attempted crime", "actus reus", "mens rea"],
+      "summary": ""
 },
     {
 "name": "Pepper v Hart [1993] AC 593",
-"keywords": ["constitutional law", "legislative intent", "parliamentary debates", "statutory interpretation"]
+"keywords": ["constitutional law", "legislative intent", "parliamentary debates", "statutory interpretation"],
+      "summary": ""
 },
     {
 "name": "Balfour v Balfour [1919] 2 KB 571",
-"keywords": ["contract law", "domestic agreements", "intention to create legal relations", "binding contracts"]
+"keywords": ["contract law", "domestic agreements", "intention to create legal relations", "binding contracts"],
+      "summary": ""
 },
     {
 "name": "Lloyds Bank v Bundy [1975] QB 326",
-"keywords": ["property law", "proprietary estoppel", "promissory estoppel", "equitable rights"]
+"keywords": ["property law", "proprietary estoppel", "promissory estoppel", "equitable rights"],
+      "summary": ""
 },
     {
 "name": "Sturges v Bridgman (1879) 11 Ch D 852",
-"keywords": ["tort law", "nuisance", "reasonableness", "injunctive relief"]
+"keywords": ["tort law", "nuisance", "reasonableness", "injunctive relief"],
+      "summary": ""
 },
     {
 "name": "Donoghue v Folkestone Properties [2003] EWCA Civ 231",
-"keywords": ["tort law", "occupier's liability", "duty of care", "trespassers"]
+"keywords": ["tort law", "occupier's liability", "duty of care", "trespassers"],
+      "summary": ""
 },
     {
 "name": "R v Williams [1923] 1 KB 340",
-"keywords": ["criminal law", "theft", "appropriation", "dishonesty"]
+"keywords": ["criminal law", "theft", "appropriation", "dishonesty"],
+      "summary": ""
 },
     {
 "name": "Hunter v Canary Wharf [1997] AC 655",
-"keywords": ["property law", "nuisance", "interference", "economic loss"]
+"keywords": ["property law", "nuisance", "interference", "economic loss"],
+      "summary": ""
 },
    {
 "name": "Thornton v Shoe Lane Parking [1971] 2 QB 163",
-"keywords": ["contract law", "exemption clauses", "unfair terms", "noticeability"]
+"keywords": ["contract law", "exemption clauses", "unfair terms", "noticeability"],
+      "summary": ""
 }, 
     {
 "name": "R v Collins [1973] QB 100",
-"keywords": ["criminal law", "possession of drugs", "custody and control", "knowledge"]
+"keywords": ["criminal law", "possession of drugs", "custody and control", "knowledge"],
+      "summary": ""
 },
     {
 "name": "R v Collins [1972] AC 307",
-"keywords": ["criminal law", "theft", "appropriation", "dishonesty"]
+"keywords": ["criminal law", "theft", "appropriation", "dishonesty"],
+      "summary": ""
 },
     {
 "name": "R (Pretty) v DPP [2001] UKHL 61",
-"keywords": ["human rights law", "assisted suicide", "right to life", "proportionality"]
+"keywords": ["human rights law", "assisted suicide", "right to life", "proportionality"],
+      "summary": ""
 },
 {
 "name": "R v Cunningham [1957] 2 QB 396",
-"keywords": ["criminal law", "maliciously", "reckless", "unlawful act manslaughter"]
+"keywords": ["criminal law", "maliciously", "reckless", "unlawful act manslaughter"],
+      "summary": ""
 },
     {
 "name": "Attorney General v Blake [2000] 1 AC 268",
-"keywords": ["contract law", "breach of confidence", "public interest", "damages"]
+"keywords": ["contract law", "breach of confidence", "public interest", "damages"],
+      "summary": ""
 },
 {
 "name": "R v Hinks [2000] UKHL 53",
-"keywords": ["criminal law", "theft", "appropriation", "property rights"]
+"keywords": ["criminal law", "theft", "appropriation", "property rights"],
+      "summary": ""
 },
 {
 "name": "Ashby v White [1703] 92 ER 126",
-"keywords": ["constitutional law", "voting rights", "disenfranchisement", "tortious interference"]
+"keywords": ["constitutional law", "voting rights", "disenfranchisement", "tortious interference"],
+      "summary": ""
 },
 {
 "name": "Pinnel's Case (1602) 5 Co Rep 117a",
-"keywords": ["contract law", "consideration", "part payment", "practical benefit"]
+"keywords": ["contract law", "consideration", "part payment", "practical benefit"],
+      "summary": ""
 },
     {
 "name": "White v Jones [1995] 2 AC 207",
-"keywords": ["tort law", "negligence", "duty of care", "third-party liability"]
+"keywords": ["tort law", "negligence", "duty of care", "third-party liability"],
+      "summary": ""
 },
 {
 "name": "R v Paradine (1647) Aleyn 26",
-"keywords": ["contract law", "frustration", "impossibility", "force majeure"]
+"keywords": ["contract law", "frustration", "impossibility", "force majeure"],
+      "summary": ""
 },
 {
 "name": "McGhee v National Coal Board [1973] 1 WLR 1",
-"keywords": ["tort law", "causation", "material contribution", "foreseeable harm"]
+"keywords": ["tort law", "causation", "material contribution", "foreseeable harm"],
+      "summary": ""
 },
     {
 "name": "R v Cambridge [1990] 3 All ER 219",
-"keywords": ["criminal law", "attempted crime", "proximity test", "impossibility"]
+"keywords": ["criminal law", "attempted crime", "proximity test", "impossibility"],
+      "summary": ""
 },
 {
 "name": "Attorney-General's Reference (No 2 of 1992) [1993] 4 All ER 593",
-"keywords": ["criminal law", "attempted crime", "substantial step", "inchoate offenses"]
+"keywords": ["criminal law", "attempted crime", "substantial step", "inchoate offenses"],
+      "summary": ""
 },
 {
 "name": "R v Golding [2014] EWCA Crim 889",
-"keywords": ["criminal law", "recklessness", "criminal damage", "foreseeable risk"]
+"keywords": ["criminal law", "recklessness", "criminal damage", "foreseeable risk"],
+      "summary": ""
 },
 {
 "name": "Bell v Lever Bros [1932] AC 161",
-"keywords": ["contract law", "offer and acceptance", "communication", "invitation to treat"]
+"keywords": ["contract law", "offer and acceptance", "communication", "invitation to treat"],
+      "summary": ""
 },
 {
 "name": "Stannard v Gore [2012] EWHC 1655",
-"keywords": ["tort law", "vicarious liability", "employee's personal motive", "course of employment"]
+"keywords": ["tort law", "vicarious liability", "employee's personal motive", "course of employment"],
+      "summary": ""
 },
     {
 "name": "Entick v Carrington [1765] EWHC KB J98",
-"keywords": ["constitutional law", "unlawful search and seizure", "privacy"]
+"keywords": ["constitutional law", "unlawful search and seizure", "privacy"],
+      "summary": ""
 },
     {
 "name": "Airedale NHS Trust v Bland [1993] AC 789",
-"keywords": ["medical law", "end of life decisions", "best interests"]
+"keywords": ["medical law", "end of life decisions", "best interests"],
+      "summary": ""
 },
     {
 "name": "Ghaidan v Godin-Mendoza [2004] UKHL 30",
-"keywords": ["human rights law", "discrimination", "sexual orientation", "civil partnerships"]
+"keywords": ["human rights law", "discrimination", "sexual orientation", "civil partnerships"],
+      "summary": ""
 },
 {
 "name": "Henderson v Merrett Syndicates Ltd [1995] 2 AC 145",
-"keywords": ["contract law", "vicarious liability", "employees", "negligent acts"]
+"keywords": ["contract law", "vicarious liability", "employees", "negligent acts"],
+      "summary": ""
 },
     {
 "name": "Mortgage Corporation v Shaire [2001] EWCA Civ 1758",
-"keywords": ["land law", "mortgages", "priority", "equitable interests"]
+"keywords": ["land law", "mortgages", "priority", "equitable interests"],
+      "summary": ""
 },
 {
 "name": "R (ProLife Alliance) v BBC [2004] UKHL 23",
-"keywords": ["media law", "freedom of expression", "political advertising", "broadcasting"]
+"keywords": ["media law", "freedom of expression", "political advertising", "broadcasting"],
+      "summary": ""
 },
 {
 "name": "Attorney General v Guardian Newspapers (No 2) [1990] 1 AC 109",
-"keywords": ["media law", "freedom of the press", "national security", "publication of classified information"]
+"keywords": ["media law", "freedom of the press", "national security", "publication of classified information"],
+      "summary": ""
 },
     {
 "name": "Central London Property Trust Ltd v High Trees House Ltd [1947] KB 130",
-"keywords": ["contract law", "promissory estoppel", "part payment of debt", "reliance"]
+"keywords": ["contract law", "promissory estoppel", "part payment of debt", "reliance"],
+      "summary": ""
 },
     {
 "name": "R v Gibbons and Proctor [1918] 13 Cr App R 134",
-"keywords": ["criminal law", "omission", "duty to act", "parental responsibility"]
+"keywords": ["criminal law", "omission", "duty to act", "parental responsibility"],
+      "summary": ""
 },
     {
 "name": "R v Walker [1963] 1 QB 779",
-"keywords": ["criminal law", "self-defense", "reasonable force", "immediate threat"]
+"keywords": ["criminal law", "self-defense", "reasonable force", "immediate threat"],
+      "summary": ""
 },
     {
 "name": "R (Hicks) v Commissioner of Police for the Metropolis [2017] UKSC 9",
@@ -620,23 +721,28 @@
 },
     {
 "name": "R v Wilson [1996] 2 Cr App R 241",
-"keywords": ["criminal law", "consent", "body modification", "grievous bodily harm"]
+"keywords": ["criminal law", "consent", "body modification", "grievous bodily harm"],
+      "summary": ""
 },
     {
 "name": "Barton v Armstrong [1976] AC 104",
-"keywords": ["tort law", "vicarious liability", "employee misconduct", "course of employment"]
+"keywords": ["tort law", "vicarious liability", "employee misconduct", "course of employment"],
+      "summary": ""
 },
     {
 "name": "R (Al-Saadoon) v Secretary of State for Defence [2010] UKSC 2",
-"keywords": ["human rights law", "deprivation of liberty", "internment", "Article 5 ECHR"]
+"keywords": ["human rights law", "deprivation of liberty", "internment", "Article 5 ECHR"],
+      "summary": ""
 },
     {
       "name": "McDonald's Corporation v Steel & Morris [1997] EWHC 366 (QB)",
-      "keywords": ["tort", "libel", "right to a fair trial", "environmental"]
+      "keywords": ["tort", "libel", "right to a fair trial", "environmental"],
+      "summary": ""
     },
 {
 "name": "Société Générale v Geys [2012] UKSC 63",
-"keywords": ["financial services", "misrepresentation", "contractual terms", "banking transactions", "liability limitation"]
+"keywords": ["financial services", "misrepresentation", "contractual terms", "banking transactions", "liability limitation"],
+      "summary": ""
 }
   ]
 }
