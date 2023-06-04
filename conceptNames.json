@@ -1,0 +1,294 @@
+{
+  "concepts": [
+{
+   "name": "Ultra vires",
+   "field": "constitutional",
+   "explanation": ""
+},
+{
+   "name": "Parliamentary sovereignty",
+   "field": "constitutional",
+   "explanation": ""
+},
+{
+   "name": "Rule of law",
+   "field": "constitutional",
+   "explanation": ""
+},
+{
+   "name": "Separation of powers",
+   "field": "constitutional",
+   "explanation": ""
+},
+{
+   "name": "Constitutional conventions",
+   "field": "constitutional",
+   "explanation": ""
+},
+{
+   "name": "Devolution",
+   "field": "constitutional",
+   "explanation": ""
+},
+{
+   "name": "Royal prerogative",
+   "field": "constitutional",
+   "explanation": ""
+},
+{
+   "name": "Constitutional monarchy",
+   "field": "constitutional",
+   "explanation": ""
+},
+{
+   "name": "Judicial review",
+   "field": "constitutional",
+   "explanation": ""
+},
+{
+   "name": "Statutory interpretation",
+   "field": "constitutional",
+   "explanation": ""
+},
+{
+   "name": "The Crown in Parliament",
+   "field": "constitutional",
+   "explanation": ""
+},
+{
+   "name": "Judicial independence",
+   "field": "constitutional",
+   "explanation": ""
+},
+{
+   "name": "Fairness and natural justice",
+   "field": "constitutional",
+   "explanation": ""
+},
+{
+   "name": "Parliamentary privilege",
+   "field": "constitutional",
+   "explanation": ""
+},
+{
+   "name": "Sovereign immunity",
+   "field": "constitutional",
+   "explanation": ""
+},
+{
+    "name": "Actus reus",
+    "field": "criminal",
+    "explanation": ""
+},
+{
+    "name": "Mens rea",
+    "field": "criminal",
+    "explanation": ""
+},
+{
+    "name": "Illegality",
+    "field": "criminal",
+    "explanation": ""
+},
+{
+    "name": "Self-defence",
+    "field": "criminal",
+    "explanation": ""
+},
+{
+    "name": "Volenti non fit iniuria",
+    "field": "criminal",
+    "explanation": ""
+},
+{
+    "name": "Strict liability",
+    "field": "criminal",
+    "explanation": ""
+},
+{
+    "name": "Vicarious liability",
+    "field": "criminal",
+    "explanation": ""
+},
+{
+    "name": "Intention",
+    "field": "criminal",
+    "explanation": ""
+},
+{
+    "name": "Recklessness",
+    "field": "criminal",
+    "explanation": ""
+},
+{
+    "name": "Duty of care",
+    "field": "tort",
+    "explanation": ""
+},
+{
+    "name": "Contributory negligence",
+    "field": "tort",
+    "explanation": ""
+},
+{
+    "name": "Vicarious liability",
+    "field": "tort",
+    "explanation": ""
+},
+{
+    "name": "Ex turpi causa non oritur actio",
+    "field": "tort",
+    "explanation": ""
+},
+{
+    "name": "Pure economic loss",
+    "field": "tort",
+    "explanation": ""
+},
+{
+    "name": "Statutory duties",
+    "field": "tort",
+    "explanation": ""
+},
+{
+    "name": "Independent contractor",
+    "field": "tort",
+    "explanation": ""
+},
+{
+    "name": "Overreaching",
+    "field": "land",
+    "explanation": ""
+},
+
+{
+    "name": "Freehold ownership",
+    "field": "land",
+    "explanation": ""
+},
+
+{
+    "name": "Leasehold ownership",
+    "field": "land",
+    "explanation": ""
+},
+
+{
+    "name": "Easements",
+    "field": "land",
+    "explanation": ""
+},
+
+{
+    "name": "Covenants",
+    "field": "land",
+    "explanation": ""
+},
+
+{
+    "name": "Mortgages",
+    "field": "land",
+    "explanation": ""
+},
+
+{
+    "name": "Adverse possession",
+    "field": "land",
+    "explanation": ""
+},
+{
+"name": "Consideration",
+"field": "contract",
+"explanation": ""
+},
+
+{
+"name": "Intention to create legal relations",
+"field": "contract",
+"explanation": ""
+},
+
+{
+"name": "Capacity",
+"field": "contract",
+"explanation": ""
+},
+
+{
+"name": "Misrepresentation",
+"field": "contract",
+"explanation": ""
+},
+
+{
+"name": "Duress",
+"field": "contract",
+"explanation": ""
+},
+
+{
+"name": "Undue influence",
+"field": "contract",
+"explanation": ""
+},
+
+{
+"name": "Frustration",
+"field": "contract",
+"explanation": ""
+},
+{
+"name": "Mergers and acquisitions",
+"field": "corporate",
+"explanation": ""
+},
+
+{
+"name": "Environmental, Social and Governance (ESG)",
+"field": "corporate",
+"explanation": ""
+},
+
+{
+"name": "Greenwashing",
+"field": "corporate",
+"explanation": ""
+},
+
+{
+"name": "Corporate governance",
+"field": "corporate",
+"explanation": ""
+},
+{
+"name": "Insolvency and restructuring",
+"field": "corporate",
+"explanation": ""
+},
+{
+"name": "Securities regulation",
+"field": "corporate",
+"explanation": ""
+},
+{
+"name": "Arbitration",
+"field": "corporate",
+"explanation": ""
+},
+{
+"name": "Non-disclosure agreement (NDA)",
+"field": "corporate",
+"explanation": ""
+},
+{
+"name": "Audit",
+"field": "corporate",
+"explanation": ""
+},
+{
+"name": "Collateral",
+"field": "corporate",
+"explanation": ""
+}
+]
+}
